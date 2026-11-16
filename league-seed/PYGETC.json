@@ -1,0 +1,1882 @@
+{
+  "league_id": "PYGETC",
+  "season_id": "47",
+  "season_name": "PYGETC 2026",
+  "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47",
+  "imported_at": "2026-10-19T00:28:37.797207+00:00",
+  "teams": [
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT",
+      "country": "Áustria",
+      "players": [
+        {
+          "source_id": "2053",
+          "name": "Bernd Theodor Breyer",
+          "accounts": [
+            "Hippo"
+          ],
+          "account_raw": "Hippo",
+          "rank": "10 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDREIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d43447e3583f4765ac13bdbcf26b771b111e7fc9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/BT.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT#2053"
+        },
+        {
+          "source_id": "3022",
+          "name": "Lilly Hu",
+          "accounts": [
+            "lilly22"
+          ],
+          "account_raw": "lilly22",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT#3022"
+        },
+        {
+          "source_id": "3023",
+          "name": "Cherry Hu",
+          "accounts": [
+            "cherry22"
+          ],
+          "account_raw": "cherry22",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT#3023"
+        },
+        {
+          "source_id": "3024",
+          "name": "Vera Neubauer",
+          "accounts": [
+            "Vera16"
+          ],
+          "account_raw": "Vera16",
+          "rank": "4 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT#3024"
+        },
+        {
+          "source_id": "3032",
+          "name": "Lezuo Aaron",
+          "accounts": [
+            "RedAaron"
+          ],
+          "account_raw": "RedAaron",
+          "rank": "9 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT#3032"
+        },
+        {
+          "source_id": "3025",
+          "name": "Matthias Kerry",
+          "accounts": [
+            "MatthiasGo"
+          ],
+          "account_raw": "MatthiasGo",
+          "rank": "15 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/AUT#3025"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "CRO",
+      "name": "Croatia",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO",
+      "country": "Croácia",
+      "players": [
+        {
+          "source_id": "1169",
+          "name": "Mirta Grigoriu",
+          "accounts": [
+            "orinoco"
+          ],
+          "account_raw": "orinoco",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#1169"
+        },
+        {
+          "source_id": "2708",
+          "name": "Stjepan Medak",
+          "accounts": [
+            "StjepanM"
+          ],
+          "account_raw": "StjepanM",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2708"
+        },
+        {
+          "source_id": "2709",
+          "name": "Roko Crvelin",
+          "accounts": [
+            "RokoCrv"
+          ],
+          "account_raw": "RokoCrv",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2709"
+        },
+        {
+          "source_id": "2710",
+          "name": "Teo Sladetic",
+          "accounts": [
+            "Teoborder"
+          ],
+          "account_raw": "Teoborder",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2710"
+        },
+        {
+          "source_id": "2221",
+          "name": "Karlo Vlahović",
+          "accounts": [
+            "karlek008"
+          ],
+          "account_raw": "karlek008",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--796e0d0773258232acf3e5d3e2dc99ac25dfc0bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Screenshot_20221012_144256.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2221"
+        },
+        {
+          "source_id": "2713",
+          "name": "Jakov Sicic",
+          "accounts": [
+            "JakovSicic"
+          ],
+          "account_raw": "JakovSicic",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2713"
+        },
+        {
+          "source_id": "2712",
+          "name": "Tonka Zderic",
+          "accounts": [
+            "tonka"
+          ],
+          "account_raw": "tonka",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2712"
+        },
+        {
+          "source_id": "2716",
+          "name": "Paula Klanjcic",
+          "accounts": [
+            "paulako"
+          ],
+          "account_raw": "paulako",
+          "rank": "8 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2716"
+        },
+        {
+          "source_id": "2714",
+          "name": "Judita Sicic",
+          "accounts": [
+            "JuditaGo"
+          ],
+          "account_raw": "JuditaGo",
+          "rank": "13 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2714"
+        },
+        {
+          "source_id": "2715",
+          "name": "Irena Derencin",
+          "accounts": [
+            "IrenaGO"
+          ],
+          "account_raw": "IrenaGO",
+          "rank": "15 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CRO#2715"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "CZE",
+      "name": "Czechia",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE",
+      "country": "Chéquia",
+      "players": [
+        {
+          "source_id": "2733",
+          "name": "František Čáha",
+          "accounts": [
+            "nuborn"
+          ],
+          "account_raw": "nuborn",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2733"
+        },
+        {
+          "source_id": "2670",
+          "name": "Bártík Dach",
+          "accounts": [
+            "Bartik"
+          ],
+          "account_raw": "Bartik",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fcdb18b8228da7f48bda88671c36b7be5e8b0628/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/BartykDach.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2670"
+        },
+        {
+          "source_id": "2671",
+          "name": "Jan Komín",
+          "accounts": [
+            "YangKemin"
+          ],
+          "account_raw": "YangKemin",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4616af81ebc885458ccdf4747eee78fa5838d14a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/JanKomin.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2671"
+        },
+        {
+          "source_id": "2696",
+          "name": "Lukáš Rak",
+          "accounts": [
+            "Dragonluk"
+          ],
+          "account_raw": "Dragonluk",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2696"
+        },
+        {
+          "source_id": "2697",
+          "name": "Matouš Babka",
+          "accounts": [
+            "matous"
+          ],
+          "account_raw": "matous",
+          "rank": "4 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2697"
+        },
+        {
+          "source_id": "2695",
+          "name": "Ladislav Kořan",
+          "accounts": [
+            "ladik"
+          ],
+          "account_raw": "ladik",
+          "rank": "4 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2695"
+        },
+        {
+          "source_id": "3033",
+          "name": "Tomáš Jiruše",
+          "accounts": [
+            "goista007"
+          ],
+          "account_raw": "goista007",
+          "rank": "10 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#3033"
+        },
+        {
+          "source_id": "2701",
+          "name": "Klára Jirušová",
+          "accounts": [
+            "hamihrnek"
+          ],
+          "account_raw": "hamihrnek",
+          "rank": "12 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2701"
+        },
+        {
+          "source_id": "2699",
+          "name": "Horna Matouš",
+          "accounts": [
+            "Matous213"
+          ],
+          "account_raw": "Matous213",
+          "rank": "13 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2699"
+        },
+        {
+          "source_id": "3034",
+          "name": "Rian Bakeš",
+          "accounts": [
+            "horangian"
+          ],
+          "account_raw": "horangian",
+          "rank": "17 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#3034"
+        },
+        {
+          "source_id": "2700",
+          "name": "Podpěra Martin",
+          "accounts": [
+            "MartinP"
+          ],
+          "account_raw": "MartinP",
+          "rank": "18 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 10,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#2700"
+        },
+        {
+          "source_id": "3035",
+          "name": "Jáchym Jelínek",
+          "accounts": [
+            "JEL"
+          ],
+          "account_raw": "JEL",
+          "rank": "19 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 11,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#3035"
+        },
+        {
+          "source_id": "3036",
+          "name": "Barbora Pluháčková",
+          "accounts": [
+            "sykorka"
+          ],
+          "account_raw": "sykorka",
+          "rank": "19 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 12,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/CZE#3036"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA",
+      "country": "França",
+      "players": [
+        {
+          "source_id": "2508",
+          "name": "Jean-Louis Tu",
+          "accounts": [
+            "gogogoch"
+          ],
+          "account_raw": "gogogoch",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2508"
+        },
+        {
+          "source_id": "2928",
+          "name": "Soren Touzot",
+          "accounts": [
+            "st3bis"
+          ],
+          "account_raw": "st3bis",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2928"
+        },
+        {
+          "source_id": "2676",
+          "name": "Johan Triki",
+          "accounts": [
+            "jojo28"
+          ],
+          "account_raw": "jojo28",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2676"
+        },
+        {
+          "source_id": "2515",
+          "name": "Océane Malavasi",
+          "accounts": [
+            "Ocetine"
+          ],
+          "account_raw": "Ocetine",
+          "rank": "5 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2515"
+        },
+        {
+          "source_id": "2513",
+          "name": "Alexandre Bongiovanni",
+          "accounts": [
+            "Filameur18"
+          ],
+          "account_raw": "Filameur18",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2513"
+        },
+        {
+          "source_id": "2929",
+          "name": "Timothé Blouin",
+          "accounts": [
+            "BlueT00th"
+          ],
+          "account_raw": "BlueT00th",
+          "rank": "8 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2929"
+        },
+        {
+          "source_id": "2514",
+          "name": "Valentine Malavasi",
+          "accounts": [
+            "malawiX22"
+          ],
+          "account_raw": "malawiX22",
+          "rank": "9 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2514"
+        },
+        {
+          "source_id": "3005",
+          "name": "Alix Orange",
+          "accounts": [
+            "AO38"
+          ],
+          "account_raw": "AO38",
+          "rank": "11 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#3005"
+        },
+        {
+          "source_id": "2930",
+          "name": "Hugo Carnel",
+          "accounts": [
+            "HugoC"
+          ],
+          "account_raw": "HugoC",
+          "rank": "11 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2930"
+        },
+        {
+          "source_id": "2931",
+          "name": "Mizane Gouraud Yang",
+          "accounts": [
+            "mizaneGY"
+          ],
+          "account_raw": "mizaneGY",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/FRA#2931"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "GER",
+      "name": "Germany",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER",
+      "country": "Alemanha",
+      "players": [
+        {
+          "source_id": "1378",
+          "name": "Chafiq Bantla",
+          "accounts": [
+            "baduk1234"
+          ],
+          "account_raw": "baduk1234",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e45fd0d331db97c34c08d3bb36e2944167bda052/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/unnamed-1.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#1378"
+        },
+        {
+          "source_id": "2543",
+          "name": "Adam Dottan",
+          "accounts": [
+            "overdrive"
+          ],
+          "account_raw": "overdrive",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#2543"
+        },
+        {
+          "source_id": "3045",
+          "name": "Dominik Luis Jacob",
+          "accounts": [
+            "JosekiBOT"
+          ],
+          "account_raw": "JosekiBOT",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#3045"
+        },
+        {
+          "source_id": "2575",
+          "name": "Mei Litao",
+          "accounts": [
+            "litao"
+          ],
+          "account_raw": "litao",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#2575"
+        },
+        {
+          "source_id": "2570",
+          "name": "Bastian Leissen",
+          "accounts": [
+            "balei"
+          ],
+          "account_raw": "balei",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#2570"
+        },
+        {
+          "source_id": "2688",
+          "name": "Anton Tianhe Zhang",
+          "accounts": [
+            "AntonZ"
+          ],
+          "account_raw": "AntonZ",
+          "rank": "4 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#2688"
+        },
+        {
+          "source_id": "2576",
+          "name": "Philipp Meng",
+          "accounts": [
+            "PhilippJM"
+          ],
+          "account_raw": "PhilippJM",
+          "rank": "7 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcklFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a688edbdfa3b3c7a789904888fa4b27279077d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG_20231230_095348_-_Kopie.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#2576"
+        },
+        {
+          "source_id": "3037",
+          "name": "Larissa Marz",
+          "accounts": [
+            "ohnezahn"
+          ],
+          "account_raw": "ohnezahn",
+          "rank": "12 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#3037"
+        },
+        {
+          "source_id": "2692",
+          "name": "Leopold Marz",
+          "accounts": [
+            "magicpet"
+          ],
+          "account_raw": "magicpet",
+          "rank": "12 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#2692"
+        },
+        {
+          "source_id": "3046",
+          "name": "Alex Ziyi Tian",
+          "accounts": [
+            "DDAT"
+          ],
+          "account_raw": "DDAT",
+          "rank": "14 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#3046"
+        },
+        {
+          "source_id": "3047",
+          "name": "Charlotte Ruotong Yin",
+          "accounts": [
+            "Lotti11"
+          ],
+          "account_raw": "Lotti11",
+          "rank": "14 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 10,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GER#3047"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "ITA",
+      "name": "Italy",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA",
+      "country": "Itália",
+      "players": [
+        {
+          "source_id": "3056",
+          "name": "Danilo Antonini",
+          "accounts": [
+            "amorini"
+          ],
+          "account_raw": "amorini",
+          "rank": "15 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3056"
+        },
+        {
+          "source_id": "2863",
+          "name": "Flavio Romagnoli",
+          "accounts": [
+            "Jamantitan"
+          ],
+          "account_raw": "Jamantitan",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#2863"
+        },
+        {
+          "source_id": "3057",
+          "name": "Carlo Edoardo Cremonini",
+          "accounts": [
+            "EthOlpes"
+          ],
+          "account_raw": "EthOlpes",
+          "rank": "11 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3057"
+        },
+        {
+          "source_id": "3062",
+          "name": "Anna Grasso",
+          "accounts": [
+            "Annanur"
+          ],
+          "account_raw": "Annanur",
+          "rank": "10 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3062"
+        },
+        {
+          "source_id": "3063",
+          "name": "Niccolo Grasso",
+          "accounts": [
+            "Niccogr"
+          ],
+          "account_raw": "Niccogr",
+          "rank": "19 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3063"
+        },
+        {
+          "source_id": "3074",
+          "name": "davide Bianucci",
+          "accounts": [
+            "No"
+          ],
+          "account_raw": "No",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3074"
+        },
+        {
+          "source_id": "3075",
+          "name": "Guido Giurlani",
+          "accounts": [
+            "MudSkipper"
+          ],
+          "account_raw": "MudSkipper",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3075"
+        },
+        {
+          "source_id": "3067",
+          "name": "Vittoria Sassoli",
+          "accounts": [
+            "Ghepagatto"
+          ],
+          "account_raw": "Ghepagatto",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ITA#3067"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "POL",
+      "name": "Poland",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL",
+      "country": "Polônia",
+      "players": [
+        {
+          "source_id": "2729",
+          "name": "Oleksandr Yeroshkin",
+          "accounts": [
+            "sashay"
+          ],
+          "account_raw": "sashay",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--404cfa0e12180c7cc97d88f0536795ddeab6ebec/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Oleksandr_Yeroshkin.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2729"
+        },
+        {
+          "source_id": "2597",
+          "name": "Tymoteusz Barcicki",
+          "accounts": [
+            "szkielet"
+          ],
+          "account_raw": "szkielet",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2597"
+        },
+        {
+          "source_id": "2595",
+          "name": "Adam Siwy",
+          "accounts": [
+            "Siwy"
+          ],
+          "account_raw": "Siwy",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2595"
+        },
+        {
+          "source_id": "2596",
+          "name": "Kacper Barcicki",
+          "accounts": [
+            "czaszka"
+          ],
+          "account_raw": "czaszka",
+          "rank": "11 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2596"
+        },
+        {
+          "source_id": "2732",
+          "name": "Natalia Kolińska",
+          "accounts": [
+            "Natalka"
+          ],
+          "account_raw": "Natalka",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2732"
+        },
+        {
+          "source_id": "2730",
+          "name": "Mateusz Chometa",
+          "accounts": [
+            "MatteoCh"
+          ],
+          "account_raw": "MatteoCh",
+          "rank": "20 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2a90e863cf7acfbbfa2e0fe97895149859d9f767/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--eb6d732f6e56e9de5aaa65635793b45a11a6f38a/Mateusz_Chometa.JPG",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2730"
+        },
+        {
+          "source_id": "2731",
+          "name": "Szymon Chometa",
+          "accounts": [
+            "SimonCh"
+          ],
+          "account_raw": "SimonCh",
+          "rank": "20 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d9907dfcc3004233547b37ef8f0b1b30011947c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--eb6d732f6e56e9de5aaa65635793b45a11a6f38a/Szymon_Chometa.JPG",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#2731"
+        },
+        {
+          "source_id": "3092",
+          "name": "Michał Krause",
+          "accounts": [
+            "Michal"
+          ],
+          "account_raw": "Michal",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/POL#3092"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "ROU",
+      "name": "Romania",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU",
+      "country": "Romênia",
+      "players": [
+        {
+          "source_id": "736",
+          "name": "Catalin Taranu",
+          "accounts": [
+            "CatalinT"
+          ],
+          "account_raw": "CatalinT",
+          "rank": "5 dan professional",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b94cc6b5e31489160fd9edfdcfcc68a07a9b877e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/images.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#736"
+        },
+        {
+          "source_id": "2533",
+          "name": "Robert Andrei Grosu",
+          "accounts": [
+            "Pingu25"
+          ],
+          "account_raw": "Pingu25",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--546ae6bedc4ed5c3424025820de2aa7e3d937c2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Robert_Grosu.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2533"
+        },
+        {
+          "source_id": "2525",
+          "name": "Alexandru Nicolas Patrascu",
+          "accounts": [
+            "Nicolas1"
+          ],
+          "account_raw": "Nicolas1",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a12ccdf0595326572b5813d062ea7e8226441952/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Nicolas_Patrascu.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2525"
+        },
+        {
+          "source_id": "2725",
+          "name": "Andrei-Luca Heemeryck",
+          "accounts": [
+            "AndreiGoGo"
+          ],
+          "account_raw": "AndreiGoGo",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--389f2f10477287cde462744485c1d69444caf0ca/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/heemeryck).jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2725"
+        },
+        {
+          "source_id": "2527",
+          "name": "Radu Oprisan",
+          "accounts": [
+            "zappa11"
+          ],
+          "account_raw": "zappa11",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUlFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--138890d9332cc6c3a3b1477fd2a23f8dc59793f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Radu_Oprisan.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2527"
+        },
+        {
+          "source_id": "2529",
+          "name": "Eduard Andrei Iugulescu",
+          "accounts": [
+            "eddie1"
+          ],
+          "account_raw": "eddie1",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--987879f3cae6d3d4f8f0e259397386b90504e79f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Eduard_Iugulescu.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2529"
+        },
+        {
+          "source_id": "2524",
+          "name": "Bogdan Stefan Tifrea",
+          "accounts": [
+            "Bogdan23"
+          ],
+          "account_raw": "Bogdan23",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDhFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b37e5703d02eb831f94d07a171793e83122c552a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Bogdan_Tifrea.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2524"
+        },
+        {
+          "source_id": "2721",
+          "name": "Gruia Taranu",
+          "accounts": [
+            "Gruia1"
+          ],
+          "account_raw": "Gruia1",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVlFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--607add98f74aa180348aa0ff5e3f4395d0842cb3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/401717942_6925183714211359_8996767948862178352_n.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2721"
+        },
+        {
+          "source_id": "2727",
+          "name": "Victor-Alexandru Castaliu",
+          "accounts": [
+            "VictorC"
+          ],
+          "account_raw": "VictorC",
+          "rank": "9 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9FIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c914318aafa04a712b7da1664dd94386c1e9ff75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/VictorCastaliu.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#2727"
+        },
+        {
+          "source_id": "3079",
+          "name": "Victor Bajenaru",
+          "accounts": [
+            "Victor2014"
+          ],
+          "account_raw": "Victor2014",
+          "rank": "10 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d50111159d31ed3a0bd3cfe6e1a60e0743e34532/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Victorb.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#3079"
+        },
+        {
+          "source_id": "3078",
+          "name": "Ana Sofia Gheorghe",
+          "accounts": [
+            "AnaSofia"
+          ],
+          "account_raw": "AnaSofia",
+          "rank": "12 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7fda957f3c69b3f6fcab4b888fd258be0a497cfb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2025-12-13_at_10.57.02_AM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 10,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#3078"
+        },
+        {
+          "source_id": "3077",
+          "name": "Stefania Bajenaru",
+          "accounts": [
+            "Stefi2012"
+          ],
+          "account_raw": "Stefi2012",
+          "rank": "14 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0f7924ff866c9a11db05e95dbb49d8435185f310/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Stefi.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 11,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/ROU#3077"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "SVK",
+      "name": "Slovakia",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK",
+      "country": "Eslováquia",
+      "players": [
+        {
+          "source_id": "2208",
+          "name": "Zuzana Králiková",
+          "accounts": [
+            "ZuzuGo"
+          ],
+          "account_raw": "ZuzuGo",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f49ba72638fb9321804d911936ccb7a3aafea6b2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/%C5%BEu%C5%BEu.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#2208"
+        },
+        {
+          "source_id": "2656",
+          "name": "Michala Chalmovianska",
+          "accounts": [
+            "sapujapu"
+          ],
+          "account_raw": "sapujapu",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#2656"
+        },
+        {
+          "source_id": "2211",
+          "name": "Szilárd Mihály Papp",
+          "accounts": [
+            "MiPa15"
+          ],
+          "account_raw": "MiPa15",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0459358227fed61adba4fdfb1731d6f48d228214/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/mal%C3%BD_mi%C5%A1ko.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#2211"
+        },
+        {
+          "source_id": "2210",
+          "name": "Damán Seman",
+          "accounts": [
+            "DamiSem"
+          ],
+          "account_raw": "DamiSem",
+          "rank": "4 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--feb3d38d531db3688036ac8d7660cfa03277fd4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKU2xCRlJ3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--ec3163c1863788bba175f04c1be63932d6b1877a/damik.JPEG",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#2210"
+        },
+        {
+          "source_id": "3083",
+          "name": "Matúš Mátis",
+          "accounts": [
+            "matusga14"
+          ],
+          "account_raw": "matusga14",
+          "rank": "11 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#3083"
+        },
+        {
+          "source_id": "3071",
+          "name": "Juraj Kral",
+          "accounts": [
+            "Jurko"
+          ],
+          "account_raw": "Jurko",
+          "rank": "15 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#3071"
+        },
+        {
+          "source_id": "3072",
+          "name": "Johana Kráľová",
+          "accounts": [
+            "Johanka"
+          ],
+          "account_raw": "Johanka",
+          "rank": "17 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#3072"
+        },
+        {
+          "source_id": "3082",
+          "name": "Mirela Chalmovianska",
+          "accounts": [
+            "kaktus"
+          ],
+          "account_raw": "kaktus",
+          "rank": "18 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#3082"
+        },
+        {
+          "source_id": "3073",
+          "name": "Richard Kráľ",
+          "accounts": [
+            "Risko"
+          ],
+          "account_raw": "Risko",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#3073"
+        },
+        {
+          "source_id": "3081",
+          "name": "Adela Chalmovianska",
+          "accounts": [
+            "greenstone"
+          ],
+          "account_raw": "greenstone",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/SVK#3081"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "TUR",
+      "name": "Turkey",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR",
+      "country": "Turquia",
+      "players": [
+        {
+          "source_id": "1203",
+          "name": "Doğaç Köse",
+          "accounts": [
+            "Blindspot"
+          ],
+          "account_raw": "Blindspot",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#1203"
+        },
+        {
+          "source_id": "2679",
+          "name": "Ozgur Iscimen",
+          "accounts": [
+            "oziscimen"
+          ],
+          "account_raw": "oziscimen",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#2679"
+        },
+        {
+          "source_id": "3054",
+          "name": "Eren Denktas",
+          "accounts": [
+            "EQuasar"
+          ],
+          "account_raw": "EQuasar",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ca196d34dd9bb422b332cca8473b68ebae04cb9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/IMG_8664.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3054"
+        },
+        {
+          "source_id": "2565",
+          "name": "Aren Denktas",
+          "accounts": [
+            "Aquasar"
+          ],
+          "account_raw": "Aquasar",
+          "rank": "5 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#2565"
+        },
+        {
+          "source_id": "2689",
+          "name": "Toprak Kaya",
+          "accounts": [
+            "Toprakkay1"
+          ],
+          "account_raw": "Toprakkay1",
+          "rank": "5 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#2689"
+        },
+        {
+          "source_id": "2603",
+          "name": "Sarp Ege Yılmaz",
+          "accounts": [
+            "sarpege"
+          ],
+          "account_raw": "sarpege",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#2603"
+        },
+        {
+          "source_id": "3049",
+          "name": "Gökçe Kaan Aslan",
+          "accounts": [
+            "gka"
+          ],
+          "account_raw": "gka",
+          "rank": "12 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3049"
+        },
+        {
+          "source_id": "3048",
+          "name": "Mert Cetin",
+          "accounts": [
+            "metcet"
+          ],
+          "account_raw": "metcet",
+          "rank": "13 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3048"
+        },
+        {
+          "source_id": "3050",
+          "name": "Alihan Suer",
+          "accounts": [
+            "aliyans"
+          ],
+          "account_raw": "aliyans",
+          "rank": "14 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3050"
+        },
+        {
+          "source_id": "3051",
+          "name": "Kaya Güvercin",
+          "accounts": [
+            "KayaG"
+          ],
+          "account_raw": "KayaG",
+          "rank": "14 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3051"
+        },
+        {
+          "source_id": "3052",
+          "name": "Alp Barkın Atmaca",
+          "accounts": [
+            "AlpBarkin"
+          ],
+          "account_raw": "AlpBarkin",
+          "rank": "15 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 10,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3052"
+        },
+        {
+          "source_id": "3053",
+          "name": "Çınar Öztürk",
+          "accounts": [
+            "Cinarko"
+          ],
+          "account_raw": "Cinarko",
+          "rank": "16 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 11,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#3053"
+        },
+        {
+          "source_id": "2687",
+          "name": "Zeynep Gokce Kocatas",
+          "accounts": [
+            "ZeynepGkc"
+          ],
+          "account_raw": "ZeynepGkc",
+          "rank": "18 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 12,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/TUR#2687"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "UKR",
+      "name": "Ukraine",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR",
+      "country": "Ucrânia",
+      "players": [
+        {
+          "source_id": "2535",
+          "name": "Dmytro Bogatskyy",
+          "accounts": [
+            "Dika"
+          ],
+          "account_raw": "Dika",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2535"
+        },
+        {
+          "source_id": "2592",
+          "name": "Vsevolod Ovsiienko",
+          "accounts": [
+            "VsevolodO"
+          ],
+          "account_raw": "VsevolodO",
+          "rank": "6 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7983e46ddacfe85f49162269593043092b63fc18/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Vsevolod_Pandanet_cr.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2592"
+        },
+        {
+          "source_id": "2537",
+          "name": "Olesia Malko",
+          "accounts": [
+            "olesia"
+          ],
+          "account_raw": "olesia",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--011df241405f501e0e0ab6c5073caa6160d3a7db/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Olesia_Malko.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2537"
+        },
+        {
+          "source_id": "3044",
+          "name": "Larion Syrotkin",
+          "accounts": [
+            "LarionS"
+          ],
+          "account_raw": "LarionS",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#3044"
+        },
+        {
+          "source_id": "2539",
+          "name": "Mariia Chernova",
+          "accounts": [
+            "MariiaChe7"
+          ],
+          "account_raw": "MariiaChe7",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2539"
+        },
+        {
+          "source_id": "2717",
+          "name": "Ihnat Bondar",
+          "accounts": [
+            "Ignat"
+          ],
+          "account_raw": "Ignat",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2717"
+        },
+        {
+          "source_id": "2540",
+          "name": "Danylo Petryk",
+          "accounts": [
+            "Danylo"
+          ],
+          "account_raw": "Danylo",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2540"
+        },
+        {
+          "source_id": "2718",
+          "name": "Denys Lototskyi",
+          "accounts": [
+            "Dionisiy"
+          ],
+          "account_raw": "Dionisiy",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2718"
+        },
+        {
+          "source_id": "2541",
+          "name": "Avhust Savytskyi",
+          "accounts": [
+            "McAugustOs"
+          ],
+          "account_raw": "McAugustOs",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2541"
+        },
+        {
+          "source_id": "2544",
+          "name": "Vira Chernova",
+          "accounts": [
+            "Valgeria4"
+          ],
+          "account_raw": "Valgeria4",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2544"
+        },
+        {
+          "source_id": "2542",
+          "name": "Violeta Gorbulska",
+          "accounts": [
+            "Violeta"
+          ],
+          "account_raw": "Violeta",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ec539a62fd91d8e64d3f7cc6c868face9f96aca/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Violeta_Gorbulska.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 10,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2542"
+        },
+        {
+          "source_id": "2720",
+          "name": "Kostiantyn Semenov",
+          "accounts": [
+            "kostas"
+          ],
+          "account_raw": "kostas",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--24a45ccc1c29ab7e87a90587702a1b1300f8a3bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Kostiantyn_Semenov_photo.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 11,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/UKR#2720"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "GBR",
+      "name": "United Kingdom",
+      "url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR",
+      "country": "Reino Unido",
+      "players": [
+        {
+          "source_id": "2552",
+          "name": "Alison Bexfield",
+          "accounts": [
+            "abexgo"
+          ],
+          "account_raw": "abexgo",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2552"
+        },
+        {
+          "source_id": "2586",
+          "name": "Ryan Zhang",
+          "accounts": [
+            "RYANZ2013"
+          ],
+          "account_raw": "RYANZ2013",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2586"
+        },
+        {
+          "source_id": "3038",
+          "name": "Daniel Yang",
+          "accounts": [
+            "Electrons"
+          ],
+          "account_raw": "Electrons",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#3038"
+        },
+        {
+          "source_id": "2583",
+          "name": "Lea Wong",
+          "accounts": [
+            "leazwong7"
+          ],
+          "account_raw": "leazwong7",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2583"
+        },
+        {
+          "source_id": "2706",
+          "name": "Lukasz Kudla",
+          "accounts": [
+            "wopiwopi"
+          ],
+          "account_raw": "wopiwopi",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2706"
+        },
+        {
+          "source_id": "2598",
+          "name": "Blake Shamoon",
+          "accounts": [
+            "amyas"
+          ],
+          "account_raw": "amyas",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2598"
+        },
+        {
+          "source_id": "2705",
+          "name": "Volovich Andrew",
+          "accounts": [
+            "AgoV"
+          ],
+          "account_raw": "AgoV",
+          "rank": "5 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2705"
+        },
+        {
+          "source_id": "3043",
+          "name": "Jin Cheng",
+          "accounts": [
+            "jin2go"
+          ],
+          "account_raw": "jin2go",
+          "rank": "7 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#3043"
+        },
+        {
+          "source_id": "3039",
+          "name": "April Chen",
+          "accounts": [
+            "April"
+          ],
+          "account_raw": "April",
+          "rank": "8 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#3039"
+        },
+        {
+          "source_id": "3040",
+          "name": "Chenbei Ding",
+          "accounts": [
+            "TBC"
+          ],
+          "account_raw": "TBC",
+          "rank": "8 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 9,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#3040"
+        },
+        {
+          "source_id": "2564",
+          "name": "Emily Gan",
+          "accounts": [
+            "WStorm"
+          ],
+          "account_raw": "WStorm",
+          "rank": "10 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 10,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#2564"
+        },
+        {
+          "source_id": "3041",
+          "name": "Sophia Gan",
+          "accounts": [
+            "TBC"
+          ],
+          "account_raw": "TBC",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 11,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#3041"
+        },
+        {
+          "source_id": "3042",
+          "name": "Fane Dhamari",
+          "accounts": [
+            "Falcon9"
+          ],
+          "account_raw": "Falcon9",
+          "rank": "20 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 12,
+          "source_url": "https://pandanet-igs.com/communities/PYGETC/teams/47/GBR#3042"
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,157 @@
+diff --git a/cpp/kataeval/kataeval.cpp b/cpp/kataeval/kataeval.cpp
+index 703702e..942b969 100644
+--- a/cpp/kataeval/kataeval.cpp
++++ b/cpp/kataeval/kataeval.cpp
+@@ -53,6 +53,11 @@ InputBuffers* gInputs = nullptr;
+ int gXLen = 19, gYLen = 19, gModelVersion = 0;
+ bool gUseNHWC = false;  // WebGPU wants NCHW (false); the Eigen CPU backend wants NHWC (true)
+ std::string gErr = "";
++std::string gRulesName = "japanese";
++std::vector<std::pair<int,int>> gSetup;
++int gInitialPlayer = P_BLACK;
++double gLastKomi = -9999;
++unsigned long gPositionEpoch = 0, gBotEpoch = ~0UL;
+ const int KGE_MAX_BATCH = 16;  // batched eval: per-batch GPU latency is ~fixed, so a
+                                // bigger batch (more in-flight search threads) raises
+                                // nnEvals/s — but the batch is thread-limited anyway, so
+@@ -159,6 +164,24 @@ KATAEVAL_EXPORT void kgeSetGumbel(int n) { gGumbelN = n > 0 ? n : 0; }
+ // policy, widening move consideration. Applies to instant eval + the AsyncBot search.
+ KATAEVAL_EXPORT void kgeSetPolicyOptimism(float v) { gPolicyOptimism = v > 0.0f ? v : 0.0f; }
+ 
++// Aurora: explicit SGF setup/rules; reject bad input instead of silently dropping moves.
++KATAEVAL_EXPORT int kgeSetPositionConfig(const char* name, const int* locs, const int* cols, int count, int firstPla) {
++  try {
++    std::string rules = name ? name : "japanese";
++    Rules::parseRules(rules);
++    if(count < 0 || count > gXLen*gYLen || (firstPla != P_BLACK && firstPla != P_WHITE))
++      throw std::runtime_error("Invalid position setup");
++    std::vector<std::pair<int,int>> setup;
++    for(int i=0;i<count;i++) {
++      if(locs[i]<0 || locs[i]>=gXLen*gYLen || (cols[i]!=P_BLACK && cols[i]!=P_WHITE))
++        throw std::runtime_error("Invalid setup stone");
++      setup.push_back({locs[i],cols[i]});
++    }
++    if(rules!=gRulesName || setup!=gSetup || firstPla!=gInitialPlayer) gPositionEpoch++;
++    gRulesName=rules;gSetup=setup;gInitialPlayer=firstPla;return 1;
++  } catch(const std::exception& e) {gErr=e.what();return 0;}
++}
++
+ KATAEVAL_EXPORT int kgeLoad(const char* modelPath, int boardSize) {
+   try {
+     Board::initHash();
+@@ -281,7 +304,7 @@ KATAEVAL_EXPORT int kgeEval(const int* stones, int pla, double komi,
+         int c = stones[y * gXLen + x];
+         if(c == 1 || c == 2) board.setStone(Location::getLoc(x, y, gXLen), (Color)c);
+       }
+-    Rules rules = Rules::getTrompTaylorish();
++    Rules rules = Rules::parseRules(gRulesName);
+     rules.komi = (float)komi;
+     Player nextPla = (Player)pla;
+     BoardHistory hist(board, nextPla, rules, 0);
+@@ -301,7 +324,7 @@ KATAEVAL_EXPORT int kgeEval(const int* stones, int pla, double komi,
+ // is y*xLen+x (or < 0 for a pass); moveCols[i] is 1 (black) / 2 (white).
+ static void buildBoardHist(const int* moveLocs, const int* moveCols, int numMoves, double komi,
+                            Board& board, BoardHistory& hist) {
+-  Rules rules = Rules::getTrompTaylorish();
++  Rules rules = Rules::parseRules(gRulesName);
+   rules.komi = (float)komi;
+   board = Board(gXLen, gYLen);
+   auto toLoc = [](int mv) {
+@@ -313,20 +336,26 @@ static void buildBoardHist(const int* moveLocs, const int* moveCols, int numMove
+   int setup = 0;
+   if(numMoves >= 2 && moveCols[0] == P_BLACK)
+     while(setup < numMoves && moveLocs[setup] >= 0 && moveCols[setup] == P_BLACK) setup++;
+-  if(setup >= 2) {
++  if(!gSetup.empty()) {
++    for(const auto& stone:gSetup) board.setStone(toLoc(stone.first),(Color)stone.second);
++    hist=BoardHistory(board,numMoves>0?(Player)moveCols[0]:(Player)gInitialPlayer,rules,0);
++    hist.setAssumeMultipleStartingBlackMovesAreHandicap(true);
++    setup=0;
++  } else if(setup >= 2) {
+     for(int i = 0; i < setup; i++) board.setStone(toLoc(moveLocs[i]), C_BLACK);
+     Player nextPla = (numMoves > setup) ? (Player)moveCols[setup] : P_WHITE;
+     hist = BoardHistory(board, nextPla, rules, 0);
+     hist.setAssumeMultipleStartingBlackMovesAreHandicap(true);  // correct komi/score for handicap
+   } else {
+     setup = 0;
+-    Player firstPla = (numMoves > 0) ? (Player)moveCols[0] : P_BLACK;
++    Player firstPla = (numMoves > 0) ? (Player)moveCols[0] : (Player)gInitialPlayer;
+     hist = BoardHistory(board, firstPla, rules, 0);
+   }
+   for(int i = setup; i < numMoves; i++) {
+     Loc loc = toLoc(moveLocs[i]);
+     Player pla = (Player)moveCols[i];
+-    if(hist.isLegal(board, loc, pla)) hist.makeBoardMoveAssumeLegal(board, loc, pla, NULL);
++    if(!hist.isLegal(board, loc, pla)) throw std::runtime_error("Illegal move in analysis history at index " + std::to_string(i));
++    hist.makeBoardMoveAssumeLegal(board, loc, pla, NULL);
+   }
+ }
+ 
+@@ -360,7 +389,7 @@ KATAEVAL_EXPORT int kgeEvalBatch(const int* stonesBatch, const int* plas, int nu
+   if(numPos < 1 || numPos > KGE_MAX_BATCH) { gErr = "batch size out of range"; return 0; }
+   try {
+     const int hw = gXLen * gYLen;
+-    Rules rules = Rules::getTrompTaylorish();
++    Rules rules = Rules::parseRules(gRulesName);
+     rules.komi = (float)komi;
+     std::vector<Board> boards;
+     boards.reserve(numPos);                 // reserve so element addresses stay stable
+@@ -609,7 +638,7 @@ static bool ensureKataEngine() {
+   gNNEval = new NNEvaluator(
+     "kge", gModelPath, "", &kgeLogger(),
+     KGE_MAX_BATCH, gXLen, gYLen,
+-    /*requireExactNNLen*/true, /*inputsUseNHWC*/false,  // WebGPU = NCHW
++    /*requireExactNNLen*/true, /*inputsUseNHWC*/!kgeBackendIsGpu(),
+     /*nnCacheSizePowerOfTwo*/16, /*nnMutexPoolSizePowerofTwo*/14,  // 64K entries: plenty
+     // for browser searches (a few k visits), vs the desktop 1M that could reach GBs of
+     // cached NNOutputs (ownership+policy) on big nets — a prime cause of the fragile
+@@ -831,12 +860,13 @@ static bool prepareSearch(const int* moveLocs, const int* moveCols, int numMoves
+                           int numSearchThreads, bool ponderMode) {
+   if(!ensureKataEngine()) { gErr = "engine init failed"; return false; }
+   stopPonder();
++  if(gLastKomi!=komi){gPositionEpoch++;gLastKomi=komi;}
+   std::vector<std::pair<Loc,Player>> newLine;
+   for(int i = 0; i < numMoves; i++) newLine.push_back({ decodeLoc(moveLocs[i]), (Player)moveCols[i] });
+   size_t common = 0;
+   while(common < gBotLine.size() && common < newLine.size() && gBotLine[common] == newLine[common]) common++;
+   bool reused = false;
+-  if(gBot->getSearch()->getRootNode() != NULL && common == gBotLine.size()) {
++  if(gBotEpoch==gPositionEpoch && gBot->getSearch()->getRootNode() != NULL && common == gBotLine.size()) {
+     reused = true;
+     for(size_t i = common; i < newLine.size() && reused; i++)
+       if(!gBot->makeMove(newLine[i].first, newLine[i].second)) reused = false;
+@@ -846,7 +876,7 @@ static bool prepareSearch(const int* moveLocs, const int* moveCols, int numMoves
+     buildBoardHist(moveLocs, moveCols, numMoves, komi, board, hist);
+     gBot->setPosition(rootPla, board, hist);
+   }
+-  gBotLine = newLine;
++  gBotLine = newLine; gBotEpoch=gPositionEpoch;
+   gPollReused.store(reused ? 1 : 0);
+ 
+   SearchParams params = SearchParams::basicDecentParams();
+diff --git a/cpp/neuralnet/webgpukernels.cpp b/cpp/neuralnet/webgpukernels.cpp
+index 5738588..39d3273 100644
+--- a/cpp/neuralnet/webgpukernels.cpp
++++ b/cpp/neuralnet/webgpukernels.cpp
+@@ -37,15 +37,18 @@ fn activate(x: f32, kind: u32) -> f32 {
+   } else if (kind == 2u) {
+     // mish(x) = x*tanh(softplus(x)); softplus(x) = max(x,0) + log1p(exp(-|x|)).
+     let sp = max(x, 0.0) + log(1.0 + exp(-abs(x)));
+-    return x * tanh(sp);
++    let e = exp(-2.0 * sp);
++    return x * (1.0 - e) / (1.0 + e);
+   } else if (kind == 3u) {
+     // silu(x) = x*sigmoid(x); sigmoid(x) = 0.5*(1 + tanh(0.5x)) — bounded, no exp overflow.
+-    return x * 0.5 * (1.0 + tanh(0.5 * x));
++    let e = exp(-abs(x));
++    return x * select(e / (1.0 + e), 1.0 / (1.0 + e), x >= 0.0);
+   } else if (kind == 12u) {
+     // mish_scale8(x) = x*tanh(softplus(8x)) = mish(8x)/8 (fp16-stability rescale).
+     let z = 8.0 * x;
+     let sp = max(z, 0.0) + log(1.0 + exp(-abs(z)));
+-    return x * tanh(sp);
++    let e = exp(-2.0 * sp);
++    return x * (1.0 - e) / (1.0 + e);
+   }
+   return x;
+ }

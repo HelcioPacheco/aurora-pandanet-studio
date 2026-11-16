@@ -1,0 +1,3943 @@
+{
+  "league_id": "agacityleague",
+  "season_id": "46",
+  "season_name": "AGA City League 2026",
+  "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46",
+  "imported_at": "2026-10-19T00:31:17.351207+00:00",
+  "teams": [
+    {
+      "code": "Atlanta1",
+      "name": "Atlanta 1",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta1",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1699",
+          "name": "Kevin Tang",
+          "accounts": [
+            "atl2020"
+          ],
+          "account_raw": "atl2020",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta1#1699"
+        },
+        {
+          "source_id": "2421",
+          "name": "Chaoyi Bian",
+          "accounts": [
+            "KarlB"
+          ],
+          "account_raw": "KarlB",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta1#2421"
+        },
+        {
+          "source_id": "954",
+          "name": "Feijun Luo",
+          "accounts": [
+            "seektruth"
+          ],
+          "account_raw": "seektruth",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta1#954"
+        },
+        {
+          "source_id": "1451",
+          "name": "Bob Liang",
+          "accounts": [
+            "bobliang86"
+          ],
+          "account_raw": "bobliang86",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta1#1451"
+        },
+        {
+          "source_id": "2960",
+          "name": "Eric Wang",
+          "accounts": [
+            "Gofanatic"
+          ],
+          "account_raw": "Gofanatic",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta1#2960"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Atlanta2",
+      "name": "Atlanta 2",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta2",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1699",
+          "name": "Kevin Tang",
+          "accounts": [
+            "atl2020"
+          ],
+          "account_raw": "atl2020",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta2#1699"
+        },
+        {
+          "source_id": "2109",
+          "name": "Yaofeng Wang",
+          "accounts": [
+            "zhi"
+          ],
+          "account_raw": "zhi",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta2#2109"
+        },
+        {
+          "source_id": "958",
+          "name": "Ge Wang",
+          "accounts": [
+            "Topgun"
+          ],
+          "account_raw": "Topgun",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta2#958"
+        },
+        {
+          "source_id": "2137",
+          "name": "Ryan Huang",
+          "accounts": [
+            "skygo2014"
+          ],
+          "account_raw": "skygo2014",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta2#2137"
+        },
+        {
+          "source_id": "2970",
+          "name": "Enzo Aozono-Araldi",
+          "accounts": [
+            "gofireboy"
+          ],
+          "account_raw": "gofireboy",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Atlanta2#2970"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Austin",
+      "name": "Austin",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2950",
+          "name": "Zhixun Zhao",
+          "accounts": [
+            "zzhixun"
+          ],
+          "account_raw": "zzhixun",
+          "rank": "8 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2950"
+        },
+        {
+          "source_id": "2950",
+          "name": "Zhixun Zhao",
+          "accounts": [
+            "zzhixun"
+          ],
+          "account_raw": "zzhixun",
+          "rank": "8 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2950"
+        },
+        {
+          "source_id": "2937",
+          "name": "Juanshu Lan",
+          "accounts": [
+            "agcJosh"
+          ],
+          "account_raw": "agcJosh",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2937"
+        },
+        {
+          "source_id": "2939",
+          "name": "Peter Lee",
+          "accounts": [
+            "peterlee36"
+          ],
+          "account_raw": "peterlee36",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2939"
+        },
+        {
+          "source_id": "2941",
+          "name": "Ruichen Jiang",
+          "accounts": [
+            "potential"
+          ],
+          "account_raw": "potential",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2941"
+        },
+        {
+          "source_id": "2942",
+          "name": "Ethan Whitman",
+          "accounts": [
+            "mobspawner"
+          ],
+          "account_raw": "mobspawner",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2942"
+        },
+        {
+          "source_id": "2945",
+          "name": "Xukun Jiang",
+          "accounts": [
+            "Projack"
+          ],
+          "account_raw": "Projack",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Austin#2945"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Boston",
+      "name": "Boston",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston",
+      "country": "",
+      "players": [
+        {
+          "source_id": "560",
+          "name": "Ke Lu",
+          "accounts": [
+            "kelu"
+          ],
+          "account_raw": "kelu",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTA4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5cca09e7d73f416b3df60cfa3d4792fbd30c9cbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Ke_Lu.jpeg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#560"
+        },
+        {
+          "source_id": "2951",
+          "name": "Zeyu Liang",
+          "accounts": [
+            "zeyuL"
+          ],
+          "account_raw": "zeyuL",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#2951"
+        },
+        {
+          "source_id": "2742",
+          "name": "Yanjun Liu",
+          "accounts": [
+            "lyjcq"
+          ],
+          "account_raw": "lyjcq",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#2742"
+        },
+        {
+          "source_id": "1934",
+          "name": "Ruihan Cao",
+          "accounts": [
+            "Ruihan"
+          ],
+          "account_raw": "Ruihan",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#1934"
+        },
+        {
+          "source_id": "2741",
+          "name": "Forest Song",
+          "accounts": [
+            "kb4gf4n"
+          ],
+          "account_raw": "kb4gf4n",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#2741"
+        },
+        {
+          "source_id": "560",
+          "name": "Ke Lu",
+          "accounts": [
+            "kelu"
+          ],
+          "account_raw": "kelu",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTA4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5cca09e7d73f416b3df60cfa3d4792fbd30c9cbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Ke_Lu.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#560"
+        },
+        {
+          "source_id": "2743",
+          "name": "Siyu Chen",
+          "accounts": [
+            "ChefCurry"
+          ],
+          "account_raw": "ChefCurry",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Boston#2743"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Vancouver3",
+      "name": "Canwa Vancouver 3",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3",
+      "country": "",
+      "players": [
+        {
+          "source_id": "581",
+          "name": "Cathy (Chen Shuo) Li",
+          "accounts": [
+            "tigercathy"
+          ],
+          "account_raw": "tigercathy",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#581"
+        },
+        {
+          "source_id": "2747",
+          "name": "Yitao Zhu",
+          "accounts": [
+            "david"
+          ],
+          "account_raw": "david",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#2747"
+        },
+        {
+          "source_id": "637",
+          "name": "Kevin Wang",
+          "accounts": [
+            "wskksw"
+          ],
+          "account_raw": "wskksw",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#637"
+        },
+        {
+          "source_id": "2305",
+          "name": "Zhiqiang Zhang",
+          "accounts": [
+            "zhiqiang"
+          ],
+          "account_raw": "zhiqiang",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#2305"
+        },
+        {
+          "source_id": "1075",
+          "name": "Roy Tong",
+          "accounts": [
+            "tongruoyu"
+          ],
+          "account_raw": "tongruoyu",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#1075"
+        },
+        {
+          "source_id": "2088",
+          "name": "Xuejun Peng",
+          "accounts": [
+            "catldelta9"
+          ],
+          "account_raw": "catldelta9",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#2088"
+        },
+        {
+          "source_id": "2749",
+          "name": "Alex Zhang",
+          "accounts": [
+            "icha"
+          ],
+          "account_raw": "icha",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver3#2749"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Chicago",
+      "name": "Chicago",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago",
+      "country": "",
+      "players": [
+        {
+          "source_id": "646",
+          "name": "Albert Yen",
+          "accounts": [
+            "Lsugyen"
+          ],
+          "account_raw": "Lsugyen",
+          "rank": "8 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#646"
+        },
+        {
+          "source_id": "646",
+          "name": "Albert Yen",
+          "accounts": [
+            "Lsugyen"
+          ],
+          "account_raw": "Lsugyen",
+          "rank": "8 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#646"
+        },
+        {
+          "source_id": "2738",
+          "name": "Maxwell Chen",
+          "accounts": [
+            "mc2006"
+          ],
+          "account_raw": "mc2006",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#2738"
+        },
+        {
+          "source_id": "2256",
+          "name": "Jiehui Kwa",
+          "accounts": [
+            "kjh97"
+          ],
+          "account_raw": "kjh97",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#2256"
+        },
+        {
+          "source_id": "2739",
+          "name": "Dadu Chen",
+          "accounts": [
+            "DaduChen"
+          ],
+          "account_raw": "DaduChen",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#2739"
+        },
+        {
+          "source_id": "2259",
+          "name": "Sungsoo Kim",
+          "accounts": [
+            "Sungsoo"
+          ],
+          "account_raw": "Sungsoo",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#2259"
+        },
+        {
+          "source_id": "2740",
+          "name": "Ruixuan Liu",
+          "accounts": [
+            "EMZZ"
+          ],
+          "account_raw": "EMZZ",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Chicago#2740"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Columbus",
+      "name": "Columbus Cabal",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2080",
+          "name": "Eric Yoder",
+          "accounts": [
+            "redreoicy"
+          ],
+          "account_raw": "redreoicy",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2080"
+        },
+        {
+          "source_id": "2080",
+          "name": "Eric Yoder",
+          "accounts": [
+            "redreoicy"
+          ],
+          "account_raw": "redreoicy",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2080"
+        },
+        {
+          "source_id": "2282",
+          "name": "Paige Lemaster",
+          "accounts": [
+            "Cinnabun"
+          ],
+          "account_raw": "Cinnabun",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2282"
+        },
+        {
+          "source_id": "2073",
+          "name": "Jeremiah Donley",
+          "accounts": [
+            "tangjie"
+          ],
+          "account_raw": "tangjie",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2073"
+        },
+        {
+          "source_id": "2958",
+          "name": "James Hanks",
+          "accounts": [
+            "Ragnarr"
+          ],
+          "account_raw": "Ragnarr",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2958"
+        },
+        {
+          "source_id": "2963",
+          "name": "Tristram McPherson",
+          "accounts": [
+            "DrTristram"
+          ],
+          "account_raw": "DrTristram",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2963"
+        },
+        {
+          "source_id": "2423",
+          "name": "Janar Kahr",
+          "accounts": [
+            "Edhellan"
+          ],
+          "account_raw": "Edhellan",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Columbus#2423"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Guadalajara",
+      "name": "Guadalajara",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara",
+      "country": "",
+      "players": [
+        {
+          "source_id": "3004",
+          "name": "Luis Palacios",
+          "accounts": [
+            "Itarios"
+          ],
+          "account_raw": "Itarios",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#3004"
+        },
+        {
+          "source_id": "2977",
+          "name": "Saúl Salinas Treviño",
+          "accounts": [
+            "ajiweaver"
+          ],
+          "account_raw": "ajiweaver",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#2977"
+        },
+        {
+          "source_id": "2981",
+          "name": "Francisco Gerardo Martínez Palacios",
+          "accounts": [
+            "Rogulf"
+          ],
+          "account_raw": "Rogulf",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#2981"
+        },
+        {
+          "source_id": "2985",
+          "name": "Yunuen Vital",
+          "accounts": [
+            "Vytal"
+          ],
+          "account_raw": "Vytal",
+          "rank": "5 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#2985"
+        },
+        {
+          "source_id": "2988",
+          "name": "Esteban García Manzanarez",
+          "accounts": [
+            "Cziffrak"
+          ],
+          "account_raw": "Cziffrak",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#2988"
+        },
+        {
+          "source_id": "2994",
+          "name": "Jorge Martínez Ortega",
+          "accounts": [
+            "i0rch"
+          ],
+          "account_raw": "i0rch",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#2994"
+        },
+        {
+          "source_id": "3000",
+          "name": "Andrea Yunuén Hernández Gómez",
+          "accounts": [
+            "AnYuyu"
+          ],
+          "account_raw": "AnYuyu",
+          "rank": "9 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Guadalajara#3000"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "HoustonRocket",
+      "name": "Houston Rocket",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2869",
+          "name": "Kaixuan Liu",
+          "accounts": [
+            "yuanshen"
+          ],
+          "account_raw": "yuanshen",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket#2869"
+        },
+        {
+          "source_id": "2473",
+          "name": "Yihan Guo",
+          "accounts": [
+            "Yihanguo"
+          ],
+          "account_raw": "Yihanguo",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket#2473"
+        },
+        {
+          "source_id": "2869",
+          "name": "Kaixuan Liu",
+          "accounts": [
+            "yuanshen"
+          ],
+          "account_raw": "yuanshen",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket#2869"
+        },
+        {
+          "source_id": "2956",
+          "name": "Jerry Zhang",
+          "accounts": [
+            "Jerry666"
+          ],
+          "account_raw": "Jerry666",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket#2956"
+        },
+        {
+          "source_id": "2957",
+          "name": "Brandon Ng",
+          "accounts": [
+            "brndnng"
+          ],
+          "account_raw": "brndnng",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket#2957"
+        },
+        {
+          "source_id": "2962",
+          "name": "Elisabeth Davis",
+          "accounts": [
+            "Elspeth"
+          ],
+          "account_raw": "Elspeth",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/HoustonRocket#2962"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Indianapolis",
+      "name": "Indianapolis",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2112",
+          "name": "Stephanie Tan",
+          "accounts": [
+            "sunbunny6"
+          ],
+          "account_raw": "sunbunny6",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis#2112"
+        },
+        {
+          "source_id": "2968",
+          "name": "Bryant Liu",
+          "accounts": [
+            "bryantliu1"
+          ],
+          "account_raw": "bryantliu1",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis#2968"
+        },
+        {
+          "source_id": "2969",
+          "name": "James Funk",
+          "accounts": [
+            "sunnyjom"
+          ],
+          "account_raw": "sunnyjom",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis#2969"
+        },
+        {
+          "source_id": "2967",
+          "name": "Kwan-mo You",
+          "accounts": [
+            "Kwan"
+          ],
+          "account_raw": "Kwan",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis#2967"
+        },
+        {
+          "source_id": "2112",
+          "name": "Stephanie Tan",
+          "accounts": [
+            "sunbunny6"
+          ],
+          "account_raw": "sunbunny6",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis#2112"
+        },
+        {
+          "source_id": "2971",
+          "name": "Peng Yi Lee",
+          "accounts": [
+            "leewasabi3"
+          ],
+          "account_raw": "leewasabi3",
+          "rank": "7 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Indianapolis#2971"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "LA3",
+      "name": "Los Angeles Eclipse",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1943",
+          "name": "Yixian Zhou",
+          "accounts": [
+            "missbear"
+          ],
+          "account_raw": "missbear",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#1943"
+        },
+        {
+          "source_id": "2949",
+          "name": "Kevin Hong",
+          "accounts": [
+            "hunner00"
+          ],
+          "account_raw": "hunner00",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#2949"
+        },
+        {
+          "source_id": "2426",
+          "name": "Yen-chin Wang",
+          "accounts": [
+            "relearning"
+          ],
+          "account_raw": "relearning",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#2426"
+        },
+        {
+          "source_id": "2938",
+          "name": "Hantao Huang",
+          "accounts": [
+            "Kopitar"
+          ],
+          "account_raw": "Kopitar",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#2938"
+        },
+        {
+          "source_id": "1943",
+          "name": "Yixian Zhou",
+          "accounts": [
+            "missbear"
+          ],
+          "account_raw": "missbear",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#1943"
+        },
+        {
+          "source_id": "1764",
+          "name": "Seowoo Wang",
+          "accounts": [
+            "avatar"
+          ],
+          "account_raw": "avatar",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#1764"
+        },
+        {
+          "source_id": "2944",
+          "name": "Dong Huang",
+          "accounts": [
+            "donghuang"
+          ],
+          "account_raw": "donghuang",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/LA3#2944"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Martinsville",
+      "name": "Martinsville",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Martinsville",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2120",
+          "name": "Zhiyong Huang",
+          "accounts": [
+            "Zhiyong1"
+          ],
+          "account_raw": "Zhiyong1",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Martinsville#2120"
+        },
+        {
+          "source_id": "2120",
+          "name": "Zhiyong Huang",
+          "accounts": [
+            "Zhiyong1"
+          ],
+          "account_raw": "Zhiyong1",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Martinsville#2120"
+        },
+        {
+          "source_id": "2121",
+          "name": "Zhihan Huang",
+          "accounts": [
+            "Zhihan1"
+          ],
+          "account_raw": "Zhihan1",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Martinsville#2121"
+        },
+        {
+          "source_id": "2122",
+          "name": "Di Chen",
+          "accounts": [
+            "DiChen"
+          ],
+          "account_raw": "DiChen",
+          "rank": "9 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Martinsville#2122"
+        },
+        {
+          "source_id": "2991",
+          "name": "Joanne Li",
+          "accounts": [
+            "JoLi"
+          ],
+          "account_raw": "JoLi",
+          "rank": "12 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Martinsville#2991"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Mason_FIRE",
+      "name": "Mason FIRE",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1219",
+          "name": "Frank Luo",
+          "accounts": [
+            "luoy"
+          ],
+          "account_raw": "luoy",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#1219"
+        },
+        {
+          "source_id": "1219",
+          "name": "Frank Luo",
+          "accounts": [
+            "luoy"
+          ],
+          "account_raw": "luoy",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#1219"
+        },
+        {
+          "source_id": "2923",
+          "name": "Ethan Shi",
+          "accounts": [
+            "DarkReaper"
+          ],
+          "account_raw": "DarkReaper",
+          "rank": "7 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#2923"
+        },
+        {
+          "source_id": "2128",
+          "name": "Woody Yin",
+          "accounts": [
+            "wy112"
+          ],
+          "account_raw": "wy112",
+          "rank": "10 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#2128"
+        },
+        {
+          "source_id": "2990",
+          "name": "Elbert Wang",
+          "accounts": [
+            "ekw16"
+          ],
+          "account_raw": "ekw16",
+          "rank": "12 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#2990"
+        },
+        {
+          "source_id": "2996",
+          "name": "Max Wu",
+          "accounts": [
+            "max2022"
+          ],
+          "account_raw": "max2022",
+          "rank": "14 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#2996"
+        },
+        {
+          "source_id": "3002",
+          "name": "Noah Wu",
+          "accounts": [
+            "noah2022"
+          ],
+          "account_raw": "noah2022",
+          "rank": "15 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Mason_FIRE#3002"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "MexicoCity",
+      "name": "Mexico City",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2998",
+          "name": "Iván Vásquez Rodríguez",
+          "accounts": [
+            "Vena137"
+          ],
+          "account_raw": "Vena137",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#2998"
+        },
+        {
+          "source_id": "2975",
+          "name": "Cirstóbal Bravo Marván",
+          "accounts": [
+            "Lobito2"
+          ],
+          "account_raw": "Lobito2",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#2975"
+        },
+        {
+          "source_id": "2979",
+          "name": "Carlos Daniel Santiago López",
+          "accounts": [
+            "moradito"
+          ],
+          "account_raw": "moradito",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#2979"
+        },
+        {
+          "source_id": "2984",
+          "name": "Emiliano Alvarado Vargas",
+          "accounts": [
+            "Pichiciego"
+          ],
+          "account_raw": "Pichiciego",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#2984"
+        },
+        {
+          "source_id": "3003",
+          "name": "Oliver Salvador Mendieta Montoya",
+          "accounts": [
+            "Olirion301"
+          ],
+          "account_raw": "Olirion301",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#3003"
+        },
+        {
+          "source_id": "2992",
+          "name": "Esteban Ortiz",
+          "accounts": [
+            "TheNormann"
+          ],
+          "account_raw": "TheNormann",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#2992"
+        },
+        {
+          "source_id": "2998",
+          "name": "Iván Vásquez Rodríguez",
+          "accounts": [
+            "Vena137"
+          ],
+          "account_raw": "Vena137",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MexicoCity#2998"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "MichiganUnited",
+      "name": "Michigan United",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2111",
+          "name": "Albert Tang",
+          "accounts": [
+            "altt123"
+          ],
+          "account_raw": "altt123",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited#2111"
+        },
+        {
+          "source_id": "1604",
+          "name": "Tianyuan Zhang",
+          "accounts": [
+            "tian1025"
+          ],
+          "account_raw": "tian1025",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited#1604"
+        },
+        {
+          "source_id": "2111",
+          "name": "Albert Tang",
+          "accounts": [
+            "altt123"
+          ],
+          "account_raw": "altt123",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited#2111"
+        },
+        {
+          "source_id": "2966",
+          "name": "Xuyan Xiong",
+          "accounts": [
+            "xuyan"
+          ],
+          "account_raw": "xuyan",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited#2966"
+        },
+        {
+          "source_id": "2110",
+          "name": "Mani Sanford",
+          "accounts": [
+            "Nuova"
+          ],
+          "account_raw": "Nuova",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited#2110"
+        },
+        {
+          "source_id": "2113",
+          "name": "Della Tang",
+          "accounts": [
+            "delt123"
+          ],
+          "account_raw": "delt123",
+          "rank": "4 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/MichiganUnited#2113"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NC_Raleigh",
+      "name": "NC Raleigh",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NC_Raleigh",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1086",
+          "name": "Jeff Kuang",
+          "accounts": [
+            "nvca"
+          ],
+          "account_raw": "nvca",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NC_Raleigh#1086"
+        },
+        {
+          "source_id": "2785",
+          "name": "Xingjian Xia",
+          "accounts": [
+            "XXJ1745"
+          ],
+          "account_raw": "XXJ1745",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NC_Raleigh#2785"
+        },
+        {
+          "source_id": "2795",
+          "name": "Sheng Huo",
+          "accounts": [
+            "Huo9Sheng"
+          ],
+          "account_raw": "Huo9Sheng",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NC_Raleigh#2795"
+        },
+        {
+          "source_id": "2786",
+          "name": "Toby Chen",
+          "accounts": [
+            "yg1433223"
+          ],
+          "account_raw": "yg1433223",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NC_Raleigh#2786"
+        },
+        {
+          "source_id": "1086",
+          "name": "Jeff Kuang",
+          "accounts": [
+            "nvca"
+          ],
+          "account_raw": "nvca",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NC_Raleigh#1086"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2261",
+          "name": "Robert Qi",
+          "accounts": [
+            "robertqi78"
+          ],
+          "account_raw": "robertqi78",
+          "rank": "5 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#2261"
+        },
+        {
+          "source_id": "567",
+          "name": "Zhaonian Chen",
+          "accounts": [
+            "zchen"
+          ],
+          "account_raw": "zchen",
+          "rank": "2 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#567"
+        },
+        {
+          "source_id": "2429",
+          "name": "Tianhao Li",
+          "accounts": [
+            "tianhao"
+          ],
+          "account_raw": "tianhao",
+          "rank": "8 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#2429"
+        },
+        {
+          "source_id": "2084",
+          "name": "Minshan Shou",
+          "accounts": [
+            "shoums"
+          ],
+          "account_raw": "shoums",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#2084"
+        },
+        {
+          "source_id": "2746",
+          "name": "Kevin Yang",
+          "accounts": [
+            "kevinyang8"
+          ],
+          "account_raw": "kevinyang8",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#2746"
+        },
+        {
+          "source_id": "2085",
+          "name": "Xinyu Tu",
+          "accounts": [
+            "wlzt"
+          ],
+          "account_raw": "wlzt",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#2085"
+        },
+        {
+          "source_id": "2087",
+          "name": "Jun Wang",
+          "accounts": [
+            "Jw8958"
+          ],
+          "account_raw": "Jw8958",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NJ#2087"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NY_City4",
+      "name": "New York City 4",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1753",
+          "name": "Howard Wong",
+          "accounts": [
+            "houth31"
+          ],
+          "account_raw": "houth31",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#1753"
+        },
+        {
+          "source_id": "2118",
+          "name": "Joel Kenny",
+          "accounts": [
+            "DuskEagle"
+          ],
+          "account_raw": "DuskEagle",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#2118"
+        },
+        {
+          "source_id": "2264",
+          "name": "Wanqi Zhu",
+          "accounts": [
+            "wanqiz"
+          ],
+          "account_raw": "wanqiz",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#2264"
+        },
+        {
+          "source_id": "947",
+          "name": "Andrew McGowan",
+          "accounts": [
+            "madlib"
+          ],
+          "account_raw": "madlib",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#947"
+        },
+        {
+          "source_id": "1753",
+          "name": "Howard Wong",
+          "accounts": [
+            "houth31"
+          ],
+          "account_raw": "houth31",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#1753"
+        },
+        {
+          "source_id": "2972",
+          "name": "Austin Robinson",
+          "accounts": [
+            "arroc"
+          ],
+          "account_raw": "arroc",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#2972"
+        },
+        {
+          "source_id": "2973",
+          "name": "Anthony Zuo",
+          "accounts": [
+            "xPillow"
+          ],
+          "account_raw": "xPillow",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City4#2973"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NY_City7",
+      "name": "New York City 7",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7",
+      "country": "",
+      "players": [
+        {
+          "source_id": "601",
+          "name": "Jeremy Chiu",
+          "accounts": [
+            "germgo"
+          ],
+          "account_raw": "germgo",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7#601"
+        },
+        {
+          "source_id": "2947",
+          "name": "Xingzhi Shen",
+          "accounts": [
+            "Rational"
+          ],
+          "account_raw": "Rational",
+          "rank": "8 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7#2947"
+        },
+        {
+          "source_id": "1438",
+          "name": "Alan Huang",
+          "accounts": [
+            "moonfire"
+          ],
+          "account_raw": "moonfire",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7#1438"
+        },
+        {
+          "source_id": "601",
+          "name": "Jeremy Chiu",
+          "accounts": [
+            "germgo"
+          ],
+          "account_raw": "germgo",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7#601"
+        },
+        {
+          "source_id": "2750",
+          "name": "Alisa Wu",
+          "accounts": [
+            "Alisawuyu"
+          ],
+          "account_raw": "Alisawuyu",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7#2750"
+        },
+        {
+          "source_id": "1093",
+          "name": "Willis Huang",
+          "accounts": [
+            "featherbag"
+          ],
+          "account_raw": "featherbag",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City7#1093"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NewYork",
+      "name": "New York City 8",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2978",
+          "name": "Micah Steinberg",
+          "accounts": [
+            "thisisnogo"
+          ],
+          "account_raw": "thisisnogo",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#2978"
+        },
+        {
+          "source_id": "2978",
+          "name": "Micah Steinberg",
+          "accounts": [
+            "thisisnogo"
+          ],
+          "account_raw": "thisisnogo",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#2978"
+        },
+        {
+          "source_id": "2982",
+          "name": "Katie Oh",
+          "accounts": [
+            "katieeee"
+          ],
+          "account_raw": "katieeee",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#2982"
+        },
+        {
+          "source_id": "2986",
+          "name": "Alek Lowrie",
+          "accounts": [
+            "Nynaeve966"
+          ],
+          "account_raw": "Nynaeve966",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#2986"
+        },
+        {
+          "source_id": "2989",
+          "name": "Dorothy Jiang",
+          "accounts": [
+            "dodoro"
+          ],
+          "account_raw": "dodoro",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#2989"
+        },
+        {
+          "source_id": "2995",
+          "name": "Eliot Yoon",
+          "accounts": [
+            "seminyoon1"
+          ],
+          "account_raw": "seminyoon1",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#2995"
+        },
+        {
+          "source_id": "3001",
+          "name": "Josh Ramos",
+          "accounts": [
+            "ws410"
+          ],
+          "account_raw": "ws410",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NewYork#3001"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NY_City_Columbia",
+      "name": "New York City Columbia",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2307",
+          "name": "Ye Sun",
+          "accounts": [
+            "RoySun"
+          ],
+          "account_raw": "RoySun",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2307"
+        },
+        {
+          "source_id": "2255",
+          "name": "Ninghan Duan",
+          "accounts": [
+            "zaniolo"
+          ],
+          "account_raw": "zaniolo",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2255"
+        },
+        {
+          "source_id": "2752",
+          "name": "Shuaiheng Tao",
+          "accounts": [
+            "shuaiheng"
+          ],
+          "account_raw": "shuaiheng",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2752"
+        },
+        {
+          "source_id": "2934",
+          "name": "Siyu Gan",
+          "accounts": [
+            "Karl"
+          ],
+          "account_raw": "Karl",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2934"
+        },
+        {
+          "source_id": "2307",
+          "name": "Ye Sun",
+          "accounts": [
+            "RoySun"
+          ],
+          "account_raw": "RoySun",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2307"
+        },
+        {
+          "source_id": "2935",
+          "name": "Yuxiao Wang",
+          "accounts": [
+            "minxing43"
+          ],
+          "account_raw": "minxing43",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2935"
+        },
+        {
+          "source_id": "2751",
+          "name": "Sherrie Ye",
+          "accounts": [
+            "yesherrie"
+          ],
+          "account_raw": "yesherrie",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City_Columbia#2751"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "NY_City",
+      "name": "New York Institute of Go",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City",
+      "country": "",
+      "players": [
+        {
+          "source_id": "796",
+          "name": "Stephanie Yin",
+          "accounts": [
+            "Mingming"
+          ],
+          "account_raw": "Mingming",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City#796"
+        },
+        {
+          "source_id": "2083",
+          "name": "Alexander Qi",
+          "accounts": [
+            "alexqinj"
+          ],
+          "account_raw": "alexqinj",
+          "rank": "3 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City#2083"
+        },
+        {
+          "source_id": "829",
+          "name": "Ryan Li",
+          "accounts": [
+            "CrazyWind"
+          ],
+          "account_raw": "CrazyWind",
+          "rank": "4 dan professional",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnc4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--603f487e3ec7f35f205faa3cd4bf28d4ec68024a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/ryanli1.png",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City#829"
+        },
+        {
+          "source_id": "2932",
+          "name": "Zirui Song",
+          "accounts": [
+            "zrsong"
+          ],
+          "account_raw": "zrsong",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City#2932"
+        },
+        {
+          "source_id": "582",
+          "name": "Ziyang (Matthew) Hu",
+          "accounts": [
+            "Hu77"
+          ],
+          "account_raw": "Hu77",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City#582"
+        },
+        {
+          "source_id": "796",
+          "name": "Stephanie Yin",
+          "accounts": [
+            "Mingming"
+          ],
+          "account_raw": "Mingming",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/NY_City#796"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Ottawa",
+      "name": "Ottawa",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1220",
+          "name": "Yingzhi Chen",
+          "accounts": [
+            "Yingzhi"
+          ],
+          "account_raw": "Yingzhi",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#1220"
+        },
+        {
+          "source_id": "1257",
+          "name": "Hanxi Zhang",
+          "accounts": [
+            "croc"
+          ],
+          "account_raw": "croc",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#1257"
+        },
+        {
+          "source_id": "2253",
+          "name": "Jianming Hao",
+          "accounts": [
+            "Jhao"
+          ],
+          "account_raw": "Jhao",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#2253"
+        },
+        {
+          "source_id": "2755",
+          "name": "Peng Peng",
+          "accounts": [
+            "GoKanata"
+          ],
+          "account_raw": "GoKanata",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#2755"
+        },
+        {
+          "source_id": "2959",
+          "name": "Rick Xiong",
+          "accounts": [
+            "rickx20000"
+          ],
+          "account_raw": "rickx20000",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#2959"
+        },
+        {
+          "source_id": "1233",
+          "name": "Xianyu Li",
+          "accounts": [
+            "Radiance"
+          ],
+          "account_raw": "Radiance",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#1233"
+        },
+        {
+          "source_id": "2459",
+          "name": "Sen Zhan",
+          "accounts": [
+            "Inkbab"
+          ],
+          "account_raw": "Inkbab",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Ottawa#2459"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Providence",
+      "name": "Providence",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2270",
+          "name": "Stephen Leone",
+          "accounts": [
+            "goya"
+          ],
+          "account_raw": "goya",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2270"
+        },
+        {
+          "source_id": "2976",
+          "name": "Jonathan Hutton",
+          "accounts": [
+            "BridgeFour"
+          ],
+          "account_raw": "BridgeFour",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2976"
+        },
+        {
+          "source_id": "2980",
+          "name": "Gabe Schwartz",
+          "accounts": [
+            "GoGabeGo"
+          ],
+          "account_raw": "GoGabeGo",
+          "rank": "1 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2980"
+        },
+        {
+          "source_id": "2270",
+          "name": "Stephen Leone",
+          "accounts": [
+            "goya"
+          ],
+          "account_raw": "goya",
+          "rank": "3 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2270"
+        },
+        {
+          "source_id": "2987",
+          "name": "Joseph Chaves",
+          "accounts": [
+            "OrigamiJoe"
+          ],
+          "account_raw": "OrigamiJoe",
+          "rank": "8 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2987"
+        },
+        {
+          "source_id": "2993",
+          "name": "Robert Huxtable",
+          "accounts": [
+            "BadukBob"
+          ],
+          "account_raw": "BadukBob",
+          "rank": "6 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2993"
+        },
+        {
+          "source_id": "2999",
+          "name": "Savanni D'Gerinel",
+          "accounts": [
+            "savanni"
+          ],
+          "account_raw": "savanni",
+          "rank": "10 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Providence#2999"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "SanDiego",
+      "name": "San Diego",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiego",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2116",
+          "name": "Evan Tan",
+          "accounts": [
+            "Zoevan"
+          ],
+          "account_raw": "Zoevan",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiego#2116"
+        },
+        {
+          "source_id": "587",
+          "name": "Calvin Sun",
+          "accounts": [
+            "kbag"
+          ],
+          "account_raw": "kbag",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiego#587"
+        },
+        {
+          "source_id": "2736",
+          "name": "Yiyao Hu",
+          "accounts": [
+            "huyiyao123"
+          ],
+          "account_raw": "huyiyao123",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiego#2736"
+        },
+        {
+          "source_id": "2092",
+          "name": "Hongkui Zheng",
+          "accounts": [
+            "TEM2"
+          ],
+          "account_raw": "TEM2",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiego#2092"
+        },
+        {
+          "source_id": "2283",
+          "name": "Shang Zhou",
+          "accounts": [
+            "ZhouShang"
+          ],
+          "account_raw": "ZhouShang",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiego#2283"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "SanDiegoB",
+      "name": "San Diego B",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2116",
+          "name": "Evan Tan",
+          "accounts": [
+            "Zoevan"
+          ],
+          "account_raw": "Zoevan",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB#2116"
+        },
+        {
+          "source_id": "2285",
+          "name": "Moxuan Liu",
+          "accounts": [
+            "jaspermliu"
+          ],
+          "account_raw": "jaspermliu",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB#2285"
+        },
+        {
+          "source_id": "2257",
+          "name": "Fuzhi (Alvin) Huang",
+          "accounts": [
+            "Alvinhfz"
+          ],
+          "account_raw": "Alvinhfz",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB#2257"
+        },
+        {
+          "source_id": "2116",
+          "name": "Evan Tan",
+          "accounts": [
+            "Zoevan"
+          ],
+          "account_raw": "Zoevan",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB#2116"
+        },
+        {
+          "source_id": "2284",
+          "name": "Aiyang Lu",
+          "accounts": [
+            "FakeLay"
+          ],
+          "account_raw": "FakeLay",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB#2284"
+        },
+        {
+          "source_id": "2117",
+          "name": "Yingxu Zhu",
+          "accounts": [
+            "yingxu"
+          ],
+          "account_raw": "yingxu",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanDiegoB#2117"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "SanFrancisco",
+      "name": "San Francisco",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2277",
+          "name": "Amy Guo",
+          "accounts": [
+            "AmyGuo"
+          ],
+          "account_raw": "AmyGuo",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#2277"
+        },
+        {
+          "source_id": "633",
+          "name": "Eric Lee",
+          "accounts": [
+            "shadonra"
+          ],
+          "account_raw": "shadonra",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#633"
+        },
+        {
+          "source_id": "2936",
+          "name": "Rujun Ding",
+          "accounts": [
+            "SFSF"
+          ],
+          "account_raw": "SFSF",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#2936"
+        },
+        {
+          "source_id": "2277",
+          "name": "Amy Guo",
+          "accounts": [
+            "AmyGuo"
+          ],
+          "account_raw": "AmyGuo",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#2277"
+        },
+        {
+          "source_id": "2948",
+          "name": "Kelton Zhang",
+          "accounts": [
+            "kzzzzz"
+          ],
+          "account_raw": "kzzzzz",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#2948"
+        },
+        {
+          "source_id": "2276",
+          "name": "Chao Xie",
+          "accounts": [
+            "xchao"
+          ],
+          "account_raw": "xchao",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#2276"
+        },
+        {
+          "source_id": "2943",
+          "name": "Zeyuan Zhang",
+          "accounts": [
+            "MerlynZZZ"
+          ],
+          "account_raw": "MerlynZZZ",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanFrancisco#2943"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "SanJose",
+      "name": "San Jose Sparks",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2790",
+          "name": "Xinzhou Song",
+          "accounts": [
+            "quandale"
+          ],
+          "account_raw": "quandale",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2790"
+        },
+        {
+          "source_id": "2453",
+          "name": "Liam Liu",
+          "accounts": [
+            "liamliu"
+          ],
+          "account_raw": "liamliu",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2453"
+        },
+        {
+          "source_id": "2790",
+          "name": "Xinzhou Song",
+          "accounts": [
+            "quandale"
+          ],
+          "account_raw": "quandale",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2790"
+        },
+        {
+          "source_id": "2454",
+          "name": "Dash Zhang",
+          "accounts": [
+            "DashDash"
+          ],
+          "account_raw": "DashDash",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2454"
+        },
+        {
+          "source_id": "2455",
+          "name": "Riannie Duan",
+          "accounts": [
+            "Riannie"
+          ],
+          "account_raw": "Riannie",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2455"
+        },
+        {
+          "source_id": "2457",
+          "name": "Steve Zhou",
+          "accounts": [
+            "stevez"
+          ],
+          "account_raw": "stevez",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2457"
+        },
+        {
+          "source_id": "2456",
+          "name": "Chengyu Fan",
+          "accounts": [
+            "Aaron0306"
+          ],
+          "account_raw": "Aaron0306",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/SanJose#2456"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Seattle1",
+      "name": "Seattle 1",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2071",
+          "name": "Sung-yen Liu",
+          "accounts": [
+            "sean51623"
+          ],
+          "account_raw": "sean51623",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#2071"
+        },
+        {
+          "source_id": "2076",
+          "name": "Yan Jin",
+          "accounts": [
+            "Yan"
+          ],
+          "account_raw": "Yan",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#2076"
+        },
+        {
+          "source_id": "966",
+          "name": "Brandon Zhou",
+          "accounts": [
+            "Brandon1z"
+          ],
+          "account_raw": "Brandon1z",
+          "rank": "6 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1U4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--453368b01b890bc30f324186a267ea15b955dad5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Brandon_Zhou.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#966"
+        },
+        {
+          "source_id": "2933",
+          "name": "Michael Wanek",
+          "accounts": [
+            "BadAtBaduk"
+          ],
+          "account_raw": "BadAtBaduk",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#2933"
+        },
+        {
+          "source_id": "2258",
+          "name": "Zixuan Gao",
+          "accounts": [
+            "Zixuan"
+          ],
+          "account_raw": "Zixuan",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#2258"
+        },
+        {
+          "source_id": "805",
+          "name": "Harrison Dow",
+          "accounts": [
+            "dhari"
+          ],
+          "account_raw": "dhari",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#805"
+        },
+        {
+          "source_id": "1248",
+          "name": "HaiChen Zhu",
+          "accounts": [
+            "ebrains"
+          ],
+          "account_raw": "ebrains",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Seattle1#1248"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Toronto2",
+      "name": "Toronto 2",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto2",
+      "country": "",
+      "players": [],
+      "warnings": [
+        "Toronto 2: nenhum jogador publicado pela fonte."
+      ]
+    },
+    {
+      "code": "Toronto4",
+      "name": "Toronto Berserkers",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#1217"
+        },
+        {
+          "source_id": "2757",
+          "name": "Ryon Yi",
+          "accounts": [
+            "Soulotus"
+          ],
+          "account_raw": "Soulotus",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#2757"
+        },
+        {
+          "source_id": "2758",
+          "name": "Shanxu Wang",
+          "accounts": [
+            "DownoMoon"
+          ],
+          "account_raw": "DownoMoon",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#2758"
+        },
+        {
+          "source_id": "2760",
+          "name": "Jiatuo Zheng",
+          "accounts": [
+            "Jiatuo26"
+          ],
+          "account_raw": "Jiatuo26",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#2760"
+        },
+        {
+          "source_id": "2759",
+          "name": "Peter Yang",
+          "accounts": [
+            "peteryang"
+          ],
+          "account_raw": "peteryang",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#2759"
+        },
+        {
+          "source_id": "2965",
+          "name": "Zihao Liu",
+          "accounts": [
+            "sky0929"
+          ],
+          "account_raw": "sky0929",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#2965"
+        },
+        {
+          "source_id": "2761",
+          "name": "Lareina Wang",
+          "accounts": [
+            "lareina777"
+          ],
+          "account_raw": "lareina777",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto4#2761"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Toronto3",
+      "name": "Toronto Breakthrough",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#1217"
+        },
+        {
+          "source_id": "2762",
+          "name": "Daniel Zhou",
+          "accounts": [
+            "Daniel"
+          ],
+          "account_raw": "Daniel",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#2762"
+        },
+        {
+          "source_id": "2763",
+          "name": "Chit Lam (Calvin) Cheung",
+          "accounts": [
+            "hkgohkgo"
+          ],
+          "account_raw": "hkgohkgo",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#2763"
+        },
+        {
+          "source_id": "2940",
+          "name": "Kelvin Yang",
+          "accounts": [
+            "Kelvin"
+          ],
+          "account_raw": "Kelvin",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#2940"
+        },
+        {
+          "source_id": "2764",
+          "name": "Zihang (Albert) Fu",
+          "accounts": [
+            "megamuggle"
+          ],
+          "account_raw": "megamuggle",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#2764"
+        },
+        {
+          "source_id": "2765",
+          "name": "Raymond Xu",
+          "accounts": [
+            "Ray2024"
+          ],
+          "account_raw": "Ray2024",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#2765"
+        },
+        {
+          "source_id": "1271",
+          "name": "James Sedgwick",
+          "accounts": [
+            "sedgwick"
+          ],
+          "account_raw": "sedgwick",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3#1271"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Toronto3new",
+      "name": "Toronto Phoenix Wing",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#1217"
+        },
+        {
+          "source_id": "2952",
+          "name": "Ruofan (Oscar) Li",
+          "accounts": [
+            "OscarLi"
+          ],
+          "account_raw": "OscarLi",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#2952"
+        },
+        {
+          "source_id": "2954",
+          "name": "Guowen Chen",
+          "accounts": [
+            "chenguowen"
+          ],
+          "account_raw": "chenguowen",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#2954"
+        },
+        {
+          "source_id": "2784",
+          "name": "Hengyuan (Harvey) Bai",
+          "accounts": [
+            "HarveyBai"
+          ],
+          "account_raw": "HarveyBai",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#2784"
+        },
+        {
+          "source_id": "2767",
+          "name": "Samuel Cheung",
+          "accounts": [
+            "trthikaru"
+          ],
+          "account_raw": "trthikaru",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#2767"
+        },
+        {
+          "source_id": "2961",
+          "name": "Jeffrey Tsang",
+          "accounts": [
+            "Jeffrey"
+          ],
+          "account_raw": "Jeffrey",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#2961"
+        },
+        {
+          "source_id": "2964",
+          "name": "Ran Qi",
+          "accounts": [
+            "qiran1"
+          ],
+          "account_raw": "qiran1",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto3new#2964"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Toronto5",
+      "name": "Toronto Skyline",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#1217"
+        },
+        {
+          "source_id": "1801",
+          "name": "Henry Chen",
+          "accounts": [
+            "Tianjing"
+          ],
+          "account_raw": "Tianjing",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#1801"
+        },
+        {
+          "source_id": "2783",
+          "name": "Xiang (Aiden) Chen",
+          "accounts": [
+            "Aiden55"
+          ],
+          "account_raw": "Aiden55",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#2783"
+        },
+        {
+          "source_id": "2955",
+          "name": "Felix Huang",
+          "accounts": [
+            "Felicachu"
+          ],
+          "account_raw": "Felicachu",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#2955"
+        },
+        {
+          "source_id": "2308",
+          "name": "Adrian Yeung",
+          "accounts": [
+            "Adrian0910"
+          ],
+          "account_raw": "Adrian0910",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#2308"
+        },
+        {
+          "source_id": "2773",
+          "name": "Huijia (Xena) Xu",
+          "accounts": [
+            "xuhuijia"
+          ],
+          "account_raw": "xuhuijia",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#2773"
+        },
+        {
+          "source_id": "2460",
+          "name": "Xinyu Xu",
+          "accounts": [
+            "Elysia"
+          ],
+          "account_raw": "Elysia",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto5#2460"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Toronto",
+      "name": "Toronto Small Avalanche",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#1217"
+        },
+        {
+          "source_id": "1446",
+          "name": "Guanyu Song",
+          "accounts": [
+            "Zhengzhou"
+          ],
+          "account_raw": "Zhengzhou",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#1446"
+        },
+        {
+          "source_id": "2439",
+          "name": "Leo Tan",
+          "accounts": [
+            "LeoT"
+          ],
+          "account_raw": "LeoT",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#2439"
+        },
+        {
+          "source_id": "2735",
+          "name": "Hongyi Li",
+          "accounts": [
+            "Akira7"
+          ],
+          "account_raw": "Akira7",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#2735"
+        },
+        {
+          "source_id": "2734",
+          "name": "Ivan Lo",
+          "accounts": [
+            "loct"
+          ],
+          "account_raw": "loct",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#2734"
+        },
+        {
+          "source_id": "1241",
+          "name": "Qiyou Wu",
+          "accounts": [
+            "Qiyou"
+          ],
+          "account_raw": "Qiyou",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#1241"
+        },
+        {
+          "source_id": "1454",
+          "name": "Tony Zhao",
+          "accounts": [
+            "Borealiz"
+          ],
+          "account_raw": "Borealiz",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto#1454"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Toronto6",
+      "name": "Toronto Stones",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#1217"
+        },
+        {
+          "source_id": "2788",
+          "name": "Steve Kong",
+          "accounts": [
+            "SK2024"
+          ],
+          "account_raw": "SK2024",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#2788"
+        },
+        {
+          "source_id": "2781",
+          "name": "Rob Campbell",
+          "accounts": [
+            "RobC"
+          ],
+          "account_raw": "RobC",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#2781"
+        },
+        {
+          "source_id": "2983",
+          "name": "Daniel Huang",
+          "accounts": [
+            "Daniel368"
+          ],
+          "account_raw": "Daniel368",
+          "rank": "3 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#2983"
+        },
+        {
+          "source_id": "2789",
+          "name": "Johnny Chen",
+          "accounts": [
+            "hello123"
+          ],
+          "account_raw": "hello123",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#2789"
+        },
+        {
+          "source_id": "2774",
+          "name": "Thanushiyan Nagarathinam",
+          "accounts": [
+            "thanoosh"
+          ],
+          "account_raw": "thanoosh",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#2774"
+        },
+        {
+          "source_id": "2997",
+          "name": "Harper He",
+          "accounts": [
+            "Harper"
+          ],
+          "account_raw": "Harper",
+          "rank": "1 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Toronto6#2997"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Vancouver",
+      "name": "Vancouver, BC",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver",
+      "country": "",
+      "players": [
+        {
+          "source_id": "581",
+          "name": "Cathy (Chen Shuo) Li",
+          "accounts": [
+            "tigercathy"
+          ],
+          "account_raw": "tigercathy",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#581"
+        },
+        {
+          "source_id": "583",
+          "name": "Tianyu (Bill) Lin",
+          "accounts": [
+            "billlin"
+          ],
+          "account_raw": "billlin",
+          "rank": "1 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#583"
+        },
+        {
+          "source_id": "1780",
+          "name": "Henry Yu",
+          "accounts": [
+            "henryYu3"
+          ],
+          "account_raw": "henryYu3",
+          "rank": "2 dan professional",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#1780"
+        },
+        {
+          "source_id": "1283",
+          "name": "Brady Zhang",
+          "accounts": [
+            "Brightstar"
+          ],
+          "account_raw": "Brightstar",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#1283"
+        },
+        {
+          "source_id": "2471",
+          "name": "Victor Wu",
+          "accounts": [
+            "Reborn864"
+          ],
+          "account_raw": "Reborn864",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#2471"
+        },
+        {
+          "source_id": "2302",
+          "name": "Ray Chen",
+          "accounts": [
+            "mamba4ever"
+          ],
+          "account_raw": "mamba4ever",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#2302"
+        },
+        {
+          "source_id": "2090",
+          "name": "Hao Hu",
+          "accounts": [
+            "erichu003"
+          ],
+          "account_raw": "erichu003",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Vancouver#2090"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Washington_DC_4",
+      "name": "Washington DC DTA",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4",
+      "country": "",
+      "players": [
+        {
+          "source_id": "2464",
+          "name": "Chang Xu",
+          "accounts": [
+            "cxu116"
+          ],
+          "account_raw": "cxu116",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4#2464"
+        },
+        {
+          "source_id": "2464",
+          "name": "Chang Xu",
+          "accounts": [
+            "cxu116"
+          ],
+          "account_raw": "cxu116",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4#2464"
+        },
+        {
+          "source_id": "2465",
+          "name": "Richard Duan",
+          "accounts": [
+            "flagster"
+          ],
+          "account_raw": "flagster",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4#2465"
+        },
+        {
+          "source_id": "2467",
+          "name": "Hsi-wen Chen",
+          "accounts": [
+            "hwc"
+          ],
+          "account_raw": "hwc",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4#2467"
+        },
+        {
+          "source_id": "2494",
+          "name": "Jia Chen",
+          "accounts": [
+            "chenjia"
+          ],
+          "account_raw": "chenjia",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4#2494"
+        },
+        {
+          "source_id": "2974",
+          "name": "Ran Zhao",
+          "accounts": [
+            "KalixB"
+          ],
+          "account_raw": "KalixB",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_4#2974"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Washington_DC_2",
+      "name": "Washington DC Pioneers",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2",
+      "country": "",
+      "players": [
+        {
+          "source_id": "593",
+          "name": "Liang Yu",
+          "accounts": [
+            "yili"
+          ],
+          "account_raw": "yili",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#593"
+        },
+        {
+          "source_id": "1268",
+          "name": "Siyuan Li",
+          "accounts": [
+            "go2school"
+          ],
+          "account_raw": "go2school",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#1268"
+        },
+        {
+          "source_id": "591",
+          "name": "Zhiyuan (Edward) Zhang",
+          "accounts": [
+            "feamed"
+          ],
+          "account_raw": "feamed",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckE4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--76fb014fb796173e18feb421050641104368dca3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Zhiyuan_Zhang_Passport_Photo.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#591"
+        },
+        {
+          "source_id": "1763",
+          "name": "Yaming Wang",
+          "accounts": [
+            "WYM2010"
+          ],
+          "account_raw": "WYM2010",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#1763"
+        },
+        {
+          "source_id": "636",
+          "name": "Zhenying Gu",
+          "accounts": [
+            "kerberos"
+          ],
+          "account_raw": "kerberos",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#636"
+        },
+        {
+          "source_id": "2440",
+          "name": "Samuel Lee",
+          "accounts": [
+            "SamuelLee"
+          ],
+          "account_raw": "SamuelLee",
+          "rank": "7 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#2440"
+        },
+        {
+          "source_id": "593",
+          "name": "Liang Yu",
+          "accounts": [
+            "yili"
+          ],
+          "account_raw": "yili",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Washington_DC_2#593"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "Waterloo",
+      "name": "Waterloo Goose",
+      "url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo",
+      "country": "",
+      "players": [
+        {
+          "source_id": "1217",
+          "name": "Howard Wong",
+          "accounts": [
+            "drawoh1"
+          ],
+          "account_raw": "drawoh1",
+          "rank": "6 dan",
+          "photo": "",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo#1217"
+        },
+        {
+          "source_id": "2463",
+          "name": "Crane Kuo",
+          "accounts": [
+            "CraneK"
+          ],
+          "account_raw": "CraneK",
+          "rank": "5 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo#2463"
+        },
+        {
+          "source_id": "2779",
+          "name": "Zeou (Theo) Hu",
+          "accounts": [
+            "happyhzo"
+          ],
+          "account_raw": "happyhzo",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo#2779"
+        },
+        {
+          "source_id": "2780",
+          "name": "Xinhao (Ken) Wang",
+          "accounts": [
+            "k3496766"
+          ],
+          "account_raw": "k3496766",
+          "rank": "4 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo#2780"
+        },
+        {
+          "source_id": "2782",
+          "name": "Ron Mackenzie",
+          "accounts": [
+            "ronma"
+          ],
+          "account_raw": "ronma",
+          "rank": "2 dan",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo#2782"
+        },
+        {
+          "source_id": "2775",
+          "name": "Thinula De Silva",
+          "accounts": [
+            "Tan"
+          ],
+          "account_raw": "Tan",
+          "rank": "2 kyu",
+          "photo": "",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/agacityleague/teams/46/Waterloo#2775"
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "warnings": [
+    "Toronto 2: nenhum jogador publicado pela fonte."
+  ]
+}

@@ -1,0 +1,13 @@
+const assert=require('node:assert/strict'),engine=require('./static/local-board.js');
+const g={id:1,size:3,moves:[{color:'B',point:'A3'},{color:'W',point:'B3'}]};
+assert.equal(engine.reconstruct(g,2).stones.length,2);
+assert.throws(()=>engine.reconstruct(g,2,[{color:'B',point:'A3'}]),/ocupada/);
+g.moves[0]={color:'B',point:'C1'};assert.deepEqual(engine.reconstruct(g,1).stones,[[2,2,'B']]);
+g.moves.push({color:'B',point:'A1'});assert.equal(engine.reconstruct(g,3).stones.length,3);
+const surround={id:2,size:3,moves:['A2','B3','C2','B1'].map(point=>({color:'B',point}))};
+assert.throws(()=>engine.reconstruct(surround,4,[{color:'W',point:'B2'}]),/liberdades/);
+const capture={id:3,size:3,moves:[{color:'W',point:'B2'},...['A2','B3','C2','B1'].map(point=>({color:'B',point}))]};
+assert.equal(engine.reconstruct(capture).stones.filter(s=>s[2]==='W').length,0);
+const ko={id:4,size:5,moves:[...['B4','D4','C5'].map(point=>({color:'B',point})),...['C4','B3','D3','C2'].map(point=>({color:'W',point})),{color:'B',point:'C3'}]};
+assert.throws(()=>engine.reconstruct(ko,8,[{color:'W',point:'C4'}]),/ko/);
+engine.clear();console.log('Local engine passed: capture, suicide, ko, occupied point, corrections and appended moves.');

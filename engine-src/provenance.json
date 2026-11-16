@@ -1,0 +1,12 @@
+{
+  "upstream": "https://github.com/saigo-online/katago-webgpu",
+  "commit": "d5ad1c0423dba989c60a2f06b1848e7eec2b5941",
+  "emscripten": "6.0.13",
+  "eigen": "3.4.0",
+  "network": "kata1-b18c384nbt-s9996604416-d4316597426.bin.gz",
+  "sha256": {
+    "katago.js": "767d438cd58eb9d25cc930e67108f12d16601d9512bbaa57acaa0d5b78fa3474",
+    "b18-s9996604416.bin.gz": "9d7a6afed8ff5b74894727e156f04f0cd36060a24824892008fbb6e0cba51f1d",
+    "katago.wasm": "ee5e1d2386dc01bafee4fca4be8b96bddde9acf661293e99a9dfade6531e1b42"
+  }
+}

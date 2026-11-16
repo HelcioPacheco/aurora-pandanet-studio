@@ -1,0 +1,21 @@
+const assert=require('node:assert/strict'),engine=require('./static/local-board.js'),{AnalysisView:A,MoveNumbers:N}=require('./static/analysis-view.js');
+const game={id:1001,size:9,moves:[{color:'B',point:'D4'},{color:'W',point:'F6'},{color:'B',point:'E5'}]},fresh=()=>({cursor:0,variation:[],notes:{}});
+let v=fresh();assert.equal(A.play(game,v,'D4',engine).official,true);assert.equal(v.cursor,1);assert.equal(v.variation.length,0);
+assert.equal(A.play(game,v,'C3',engine).official,false);assert.equal(v.cursor,1);assert.equal(v.variation[0].color,'W');
+let result=A.play(game,v,'F3',engine);assert.equal(v.variation.length,2);
+assert.deepEqual(N.forPosition(game,v,result.board,'all').map(n=>n.text),['1','2']);assert.equal(result.board.stones.length,3);
+A.navigate(game,v,-1);assert.equal(A.count(v),1);assert.equal(v.variation.length,2);A.navigate(game,v,1);assert.equal(A.count(v),2);
+A.navigate(game,v,0,1);assert.equal(A.count(v),0);A.navigate(game,v,1);assert.equal(A.count(v),1);
+A.navigate(game,v,0,3);assert.equal(A.count(v),2);A.undo(v);assert.equal(v.variation.length,1);
+let fork={cursor:1,variation:[],notes:{}};A.play(game,fork,'C3',engine);A.play(game,fork,'F3',engine);A.navigate(game,fork,-1);assert.equal(A.play(game,fork,'F3',engine).reused,true);A.navigate(game,fork,-1);const changed=A.play(game,fork,'G3',engine);assert.deepEqual(N.forPosition(game,fork,changed.board,'all').map(n=>n.text),['1']);
+const source=JSON.stringify(game.moves),illegal={cursor:null,variation:[],notes:{}};assert.throws(()=>A.play(game,illegal,'D4',engine),/ocupada/);assert.equal(illegal.cursor,null);assert.equal(JSON.stringify(game.moves),source);
+const many={id:1002,size:19,moves:Array.from({length:60},(_,i)=>({color:i%2?'W':'B',point:'ABCDEFGHJKLMNOPQRST'[(i%9)*2]+(19-Math.floor(i/9)*2)}))};
+const allBoard=engine.reconstruct(many),live={cursor:null,variation:[]};
+for(const mode of ['1','5','10','25','50','all','none']){const list=N.forPosition(many,live,allBoard,mode);assert.equal(list.length,mode==='all'?60:mode==='none'?0:Number(mode));if(list.length)assert.equal(list.at(-1).text,'60');}
+const fifty=N.forPosition(many,live,allBoard,'50');assert.equal(fifty[0].text,'11');
+const pass={id:1003,size:9,moves:[{color:'B',point:'D4'},{color:'W',point:'Pass'}]},passBoard=engine.reconstruct(pass);assert.deepEqual(N.forPosition(pass,live,passBoard,'1'),[]);assert.equal(N.forPosition(pass,live,passBoard,'all')[0].text,'1');
+const h={id:1004,size:9,handicap:2,moves:[{color:'B',point:'Handicap',extra:['2']},{color:'W',point:'E5'}]};assert.deepEqual(N.forPosition(h,live,engine.reconstruct(h),'all').map(n=>n.text),['1']);
+const capture={id:1005,size:3,moves:[{color:'W',point:'B2'},...['A2','B3','C2','B1'].map(point=>({color:'B',point}))]};assert.deepEqual(N.forPosition(capture,live,engine.reconstruct(capture),'all').map(n=>n.text),['2','3','4','5']);
+const noLabel=N.forPosition(game,{cursor:1,variation:[]},engine.reconstruct(game,1),'all',[{type:'label',x:3,y:5}]);assert.deepEqual(noLabel,[]);
+assert.equal(N.normalize('bogus'),'1');
+console.log('Analysis tests passed: automatic branches, following recorded moves, legality, back/forward, all seven numbering modes, captures, passes, handicap and manual labels.');

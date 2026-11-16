@@ -1,0 +1,1713 @@
+{
+  "league_id": "latinamericanleague",
+  "season_id": "48",
+  "season_name": "Pandanet Go Latin American Team Championship 2026",
+  "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48",
+  "imported_at": "2026-10-20T02:06:35.117378+00:00",
+  "teams": [
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG",
+      "country": "Argentina",
+      "players": [
+        {
+          "source_id": "1289",
+          "name": "Fernando Aguilar",
+          "accounts": [
+            "Fernando"
+          ],
+          "account_raw": "Fernando",
+          "rank": "7 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1c16b05327b66da4b44d4f49402728c7bcae632b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Aguilar.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#1289"
+        },
+        {
+          "source_id": "3020",
+          "name": "Savva Antoniuk",
+          "accounts": [
+            "savvaanto"
+          ],
+          "account_raw": "savvaanto",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a53241e0f3f4b2fc2b5330d521d3d240bc36e2e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/554d2a61-3f01-4b64-ac42-9f9d55aeed9b.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#3020"
+        },
+        {
+          "source_id": "2323",
+          "name": "Gonzalo Agustin Pereira",
+          "accounts": [
+            "Tulio269"
+          ],
+          "account_raw": "Tulio269",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d83a638a6d8b12b113c24e52d002da978e3e9225/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Screenshot_20230115_141511_WhatsApp.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#2323"
+        },
+        {
+          "source_id": "1299",
+          "name": "David Pollitzer",
+          "accounts": [
+            "dvdpo"
+          ],
+          "account_raw": "dvdpo",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fcb1a86673150466dbedbe31b2c60b3094fb5e49/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/Pollitzer.png",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#1299"
+        },
+        {
+          "source_id": "1650",
+          "name": "Santiago Laplagne",
+          "accounts": [
+            "slap"
+          ],
+          "account_raw": "slap",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a6c95c0c3f8a77aaeec8013809497d062355c401/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/passportPhoto-4.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#1650"
+        },
+        {
+          "source_id": "2167",
+          "name": "Camilo Vázquez",
+          "accounts": [
+            "Camilo"
+          ],
+          "account_raw": "Camilo",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9EIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f45b3c2d7df79871bbe0ad5504b9937c06622c3c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/pp.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#2167"
+        },
+        {
+          "source_id": "2799",
+          "name": "Fernando Ariel De Fine",
+          "accounts": [
+            "kryswilx"
+          ],
+          "account_raw": "kryswilx",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--87ca513bcce2d531e8e988fddd8fb6d224444016/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/fer_no_go_2.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#2799"
+        },
+        {
+          "source_id": "2810",
+          "name": "Manuel Sarrouf",
+          "accounts": [
+            "manu"
+          ],
+          "account_raw": "manu",
+          "rank": "3 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--330155a711972eed0e766ec526cf07550086e0f0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20250115-WA0033.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ARG#2810"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA",
+      "country": "Brasil",
+      "players": [
+        {
+          "source_id": "1837",
+          "name": "Alexandre Amaro",
+          "accounts": [
+            "vogalinha"
+          ],
+          "account_raw": "vogalinha",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--51158b6ec3e3d7fafba968e70ce9d0ee5d2221de/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/alexandre_amaro_photo.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#1837"
+        },
+        {
+          "source_id": "1330",
+          "name": "Phillipe Pedreira Scafuto Fanaro",
+          "accounts": [
+            "psygo"
+          ],
+          "account_raw": "psygo",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUFDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1dc35f0baf49fc99aca3552becfa1ea8fe9c0b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/PhillipeFanaro.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#1330"
+        },
+        {
+          "source_id": "2490",
+          "name": "Ronaldo Yasuki Matayoshi",
+          "accounts": [
+            "ansunna"
+          ],
+          "account_raw": "ansunna",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a031f0ccd11f52feeb00b347592667a711511a6b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/ronaldo.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#2490"
+        },
+        {
+          "source_id": "1819",
+          "name": "Helcio Alexandre Pacheco",
+          "accounts": [
+            "HelcioAlex"
+          ],
+          "account_raw": "HelcioAlex",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26cee0337d9f7d219a448678db9daa8c217c2d7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/helcio_(2).jpg",
+          "captain": false,
+          "trainer": true,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#1819"
+        },
+        {
+          "source_id": "1327",
+          "name": "Felipe Herman van Riemsdijk",
+          "accounts": [
+            "riemsdijk"
+          ],
+          "account_raw": "riemsdijk",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDBDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0430793011b59e6612e237d78526ee52357b1d6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/photo_felipe_herman.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#1327"
+        },
+        {
+          "source_id": "2163",
+          "name": "Gabriel Marcondes de Castilho",
+          "accounts": [
+            "Zentryl"
+          ],
+          "account_raw": "Zentryl",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26df0a7ae0beb183c0c2f7d2b81a2aa967289fc3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/GabrielCastilhoUpdate.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#2163"
+        },
+        {
+          "source_id": "1672",
+          "name": "Laercio Pereira",
+          "accounts": [
+            "laercioskt"
+          ],
+          "account_raw": "laercioskt",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1VEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b23155dfc6091518430bedbefdedc92ff0f27e1e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/c10dde71-8358-4635-afc5-03def39871fc.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#1672"
+        },
+        {
+          "source_id": "2842",
+          "name": "Elias Bandeira",
+          "accounts": [
+            "Reimatch"
+          ],
+          "account_raw": "Reimatch",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3dd35339e22040a15b6a3fcb4628ab74185fa2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/IMG_1966.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/BRA#2842"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "CHI",
+      "name": "Chile",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI",
+      "country": "Chile",
+      "players": [
+        {
+          "source_id": "1644",
+          "name": "Ignacio Iglesis",
+          "accounts": [
+            "iiglesis"
+          ],
+          "account_raw": "iiglesis",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXdDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--912f0b376e8dcc06151d804d8705ee618db929d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Ini.jpeg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#1644"
+        },
+        {
+          "source_id": "1332",
+          "name": "Avelio Sepúlveda",
+          "accounts": [
+            "ave"
+          ],
+          "account_raw": "ave",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d096d55d69675a2c99e3ab847741cdc6d4215f8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/Avelio.png",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#1332"
+        },
+        {
+          "source_id": "1966",
+          "name": "Matias Navarro",
+          "accounts": [
+            "lyama"
+          ],
+          "account_raw": "lyama",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHdEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--042406cf53e9b7ab8ff86728955cd031af365e2e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/foto_pandanet.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#1966"
+        },
+        {
+          "source_id": "2823",
+          "name": "Cristian C. Yurisch",
+          "accounts": [
+            "YurischTFT"
+          ],
+          "account_raw": "YurischTFT",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--96b27f9ba86ffcfd1fbbbb28b912aa315644e0f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/464943330_10234782435121696_2930690995847495627_n.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#2823"
+        },
+        {
+          "source_id": "2158",
+          "name": "Francisco González",
+          "accounts": [
+            "kamelo"
+          ],
+          "account_raw": "kamelo",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d9c6d2c4100c78948a00b4100b960f0c4473fcf5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG_20210811_101132762_HDR.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#2158"
+        },
+        {
+          "source_id": "1967",
+          "name": "Renate Reisenegger",
+          "accounts": [
+            "Tatesin"
+          ],
+          "account_raw": "Tatesin",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDBEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d8c1b4b92d9a8ad5fdf1b6f15188819032c0cf9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/74525037_766500057199317_5785277267894599680_n_(6).jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#1967"
+        },
+        {
+          "source_id": "2817",
+          "name": "Anibal Perez",
+          "accounts": [
+            "Spok"
+          ],
+          "account_raw": "Spok",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0207a92a5a4cec3162d35b208ec586882d107c99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/312208996_527894306010832_2672036539098258189_n.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#2817"
+        },
+        {
+          "source_id": "3014",
+          "name": "Álvaro Frías",
+          "accounts": [
+            "Pooptime"
+          ],
+          "account_raw": "Pooptime",
+          "rank": "3 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97d9ccb062f01a8dd65dc47a61cbde86343fd72b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Imagen_Perfil.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#3014"
+        },
+        {
+          "source_id": "3012",
+          "name": "Cristian Villacura",
+          "accounts": [
+            "Crvill"
+          ],
+          "account_raw": "Crvill",
+          "rank": "4 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2tGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b11092fcdd75a9fb0db92693a424282b0b6c92a7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Cristian.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CHI#3012"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL",
+      "country": "Colômbia",
+      "players": [
+        {
+          "source_id": "1656",
+          "name": "Juan David Ramírez Jiménez",
+          "accounts": [
+            "Judaraji"
+          ],
+          "account_raw": "Judaraji",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6c93db9d565563a95986290a890168cc3384a2c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--eb6d732f6e56e9de5aaa65635793b45a11a6f38a/FOTO_JUAN_DAVID_RAM%C3%8DREZ_JIM%C3%89NEZ_UROSARIO.JPG",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#1656"
+        },
+        {
+          "source_id": "1493",
+          "name": "Juan Burgos",
+          "accounts": [
+            "Abduct"
+          ],
+          "account_raw": "Abduct",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6208f7f2fa5e2f1163eab8f3c35d3807046f1b43/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/FB_IMG_1511558931414.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#1493"
+        },
+        {
+          "source_id": "1489",
+          "name": "Juan Samper",
+          "accounts": [
+            "Sampi"
+          ],
+          "account_raw": "Sampi",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac7dbd82b9d6619ce578b831da1ae340e3201018/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/perfil.png",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#1489"
+        },
+        {
+          "source_id": "1318",
+          "name": "Brandal Henao",
+          "accounts": [
+            "NextStars"
+          ],
+          "account_raw": "NextStars",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1dad4db22507857d8d8c365bb689fc16a812d3b3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/Brandal.png",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#1318"
+        },
+        {
+          "source_id": "1312",
+          "name": "Diego Rodríguez",
+          "accounts": [
+            "Brujo"
+          ],
+          "account_raw": "Brujo",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazRDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1a61492a55448d52c5aff85275aa5575075d7f41/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Diego_R.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#1312"
+        },
+        {
+          "source_id": "2511",
+          "name": "Farlan Marin Andrade",
+          "accounts": [
+            "Teman"
+          ],
+          "account_raw": "Teman",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d468f9e0a809c4806e3af87676064eacd8b5cdc4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/FB_IMG_1707147409509.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#2511"
+        },
+        {
+          "source_id": "1313",
+          "name": "Santiago Espinosa",
+          "accounts": [
+            "Estraggon"
+          ],
+          "account_raw": "Estraggon",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f8931d47fcd42143f372948545c0695e59d4635/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/Fabio_M.png",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/COL#1313"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "CRC",
+      "name": "Costa Rica",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CRC",
+      "country": "Costa Rica",
+      "players": [
+        {
+          "source_id": "1341",
+          "name": "Mario Aguero",
+          "accounts": [
+            "dankenzon"
+          ],
+          "account_raw": "dankenzon",
+          "rank": "4 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ead883458b354e42c574859dd87eac36cbc3347/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--eb6d732f6e56e9de5aaa65635793b45a11a6f38a/Mario_Aguero.JPG",
+          "captain": true,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CRC#1341"
+        },
+        {
+          "source_id": "2476",
+          "name": "Nara Alvarado Alvarez",
+          "accounts": [
+            "Arusaran"
+          ],
+          "account_raw": "Arusaran",
+          "rank": "11 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92ec39f66a4462e8ebeab18f3fb92e5348fe13f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/nara.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CRC#2476"
+        },
+        {
+          "source_id": "2475",
+          "name": "Jurgen Araya Seas",
+          "accounts": [
+            "Jurara"
+          ],
+          "account_raw": "Jurara",
+          "rank": "13 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0dbadb0056987c37aa584269a4aba83e1228742f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/JAS.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CRC#2475"
+        },
+        {
+          "source_id": "3018",
+          "name": "Ariel Alcazar Obregon",
+          "accounts": [
+            "Caravaggio"
+          ],
+          "account_raw": "Caravaggio",
+          "rank": "15 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb9d3297183c8ca29563ec746389674c3aeb9e6c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/ariel.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CRC#3018"
+        },
+        {
+          "source_id": "2830",
+          "name": "Esteban García",
+          "accounts": [
+            "Zeetle"
+          ],
+          "account_raw": "Zeetle",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--604a1bd1a1ef30e40186bf4d40e46f4955ef7f77/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/esteban.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/CRC#2830"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "DOM",
+      "name": "Dominican Republic",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM",
+      "country": "República Dominicana",
+      "players": [
+        {
+          "source_id": "1867",
+          "name": "JESUS SEVERINO",
+          "accounts": [
+            "Jesusgo"
+          ],
+          "account_raw": "Jesusgo",
+          "rank": "14 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee8af5854f9be435f531c57d423b54ff35b27768/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/20200122_082957.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#1867"
+        },
+        {
+          "source_id": "2803",
+          "name": "Pascal Núñez",
+          "accounts": [
+            "Pascal"
+          ],
+          "account_raw": "Pascal",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa09f0ee7bff27aa6b0b8cb25464854b9cf35659/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/PASCAL_NU%C3%91EZ.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#2803"
+        },
+        {
+          "source_id": "2482",
+          "name": "HAN JONG MYUNG",
+          "accounts": [
+            "lucashan"
+          ],
+          "account_raw": "lucashan",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01FIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--24dff4551a7874035b989c495ce49f20060b5983/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/FOTO_HAN_.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#2482"
+        },
+        {
+          "source_id": "1997",
+          "name": "Silvano De Peña",
+          "accounts": [
+            "GreenIvan"
+          ],
+          "account_raw": "GreenIvan",
+          "rank": "9 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmtEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--93c70b0465ec2ea5afa1f72d8aa1cfdc6c0b5657/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/2806b0a9-41fd-4791-b514-5e0210203307.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#1997"
+        },
+        {
+          "source_id": "2806",
+          "name": "Alexander Canela Reyes",
+          "accounts": [
+            "Alex4nderR"
+          ],
+          "account_raw": "Alex4nderR",
+          "rank": "9 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa1f65919ad62f8ac3481e5e9f5873facfddb9bf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/13dc01df-0a70-4194-a22d-43a71b62adb5.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#2806"
+        },
+        {
+          "source_id": "2809",
+          "name": "YANCARLO RODRIGUEZ ACEVEDO",
+          "accounts": [
+            "Yancago1"
+          ],
+          "account_raw": "Yancago1",
+          "rank": "11 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--20ae5f5c1247991fd2730c1d237e1bb1b71610f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/20190901_104635.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#2809"
+        },
+        {
+          "source_id": "2807",
+          "name": "Jadelin Del Pilar Severino Rijo",
+          "accounts": [
+            "jadelingo"
+          ],
+          "account_raw": "jadelingo",
+          "rank": "11 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0431871cda5891b710fb4515bda694746d3ed3cf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/JADELIN_SEVERINO.._(2).jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#2807"
+        },
+        {
+          "source_id": "2317",
+          "name": "Angel Luis Ventura",
+          "accounts": [
+            "angel1"
+          ],
+          "account_raw": "angel1",
+          "rank": "12 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a2035e2092332b1a4f3a53fba751addf62dbfeec/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/angel_luis_ventura_(2).jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/DOM#2317"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU",
+      "country": "Equador",
+      "players": [
+        {
+          "source_id": "1320",
+          "name": "Edisson Vásquez",
+          "accounts": [
+            "chrono1122"
+          ],
+          "account_raw": "chrono1122",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a59a101398b1a5cacd47a24e140d46e7ad42b84c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/Edisson.png",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#1320"
+        },
+        {
+          "source_id": "3019",
+          "name": "Miguel Pazmiño",
+          "accounts": [
+            "mql"
+          ],
+          "account_raw": "mql",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--41c78eb6393de11a3f3590b5d55f36aecea6ecf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2025-12-22_at_7.44.31_AM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#3019"
+        },
+        {
+          "source_id": "1832",
+          "name": "Diego Albuja",
+          "accounts": [
+            "Goinsei"
+          ],
+          "account_raw": "Goinsei",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbElEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b5e0a9872e1754ba2f4886de085294680502e4e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/17310911_10154329398361288_1117267444880958927_o.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#1832"
+        },
+        {
+          "source_id": "2819",
+          "name": "Susana Valeria Sánchez Aguilar",
+          "accounts": [
+            "Aire"
+          ],
+          "account_raw": "Aire",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1VGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd3ec506bc1b9db2d4edf1fada760448acc9ce40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Imagen_de_WhatsApp_2025-01-16_a_las_12.16.06_c55e387e.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#2819"
+        },
+        {
+          "source_id": "3011",
+          "name": "Johnny Chazatar",
+          "accounts": [
+            "JohnnyGo"
+          ],
+          "account_raw": "JohnnyGo",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e2af72816efb0495189ce75831b227347c77bbc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/c11530222e313ea77ea4f23cad2be1eb-128.png",
+          "captain": true,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#3011"
+        },
+        {
+          "source_id": "2509",
+          "name": "Sergio Quevedo",
+          "accounts": [
+            "Chuchaki3"
+          ],
+          "account_raw": "Chuchaki3",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9FIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bf5b8f6f8b20626905a7548a647686a0da771b78/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20240122-WA0001.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#2509"
+        },
+        {
+          "source_id": "1825",
+          "name": "Vinicio Sanchez",
+          "accounts": [
+            "perreo"
+          ],
+          "account_raw": "perreo",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f718728235e9104b0750912de663ec64cd23c5e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/81237894_615913245845473_4321626003387449344_n.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#1825"
+        },
+        {
+          "source_id": "2001",
+          "name": "Sami Charro",
+          "accounts": [
+            "Samilin"
+          ],
+          "account_raw": "Samilin",
+          "rank": "9 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc7baadf6bc64329e83b519c3f4a405c31b97b78/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Sami_Charro.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/ECU#2001"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "SLV",
+      "name": "El Salvador",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV",
+      "country": "El Salvador",
+      "players": [
+        {
+          "source_id": "3060",
+          "name": "Alessandro Sosa",
+          "accounts": [
+            "alex4vogel"
+          ],
+          "account_raw": "alex4vogel",
+          "rank": "15 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--81e0e2a67e25d30b42dbebfade9a246ddc5ec190/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2026-01-13_at_4.54.18_PM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3060"
+        },
+        {
+          "source_id": "3059",
+          "name": "Juan Gerardo Marroquín Reina",
+          "accounts": [
+            "JohnLee"
+          ],
+          "account_raw": "JohnLee",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1323046c1aac9120e74209a971c3921ce9b6e71e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--eb6d732f6e56e9de5aaa65635793b45a11a6f38a/WhatsApp_Image_2026-01-13_at_2.12.52_PM(1).JPG",
+          "captain": true,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3059"
+        },
+        {
+          "source_id": "3076",
+          "name": "Carlos Baiza",
+          "accounts": [
+            "CarlosB"
+          ],
+          "account_raw": "CarlosB",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bd413e8b347e19739fc334a005c74afd2acac265/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20260117-WA0080.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3076"
+        },
+        {
+          "source_id": "3066",
+          "name": "Kevin Urbina",
+          "accounts": [
+            "Kebam07"
+          ],
+          "account_raw": "Kebam07",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b07c6434e23a12c7c857c0434f5c87956cca888c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20251218-WA0083.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3066"
+        },
+        {
+          "source_id": "3070",
+          "name": "Tatiana Mendoza",
+          "accounts": [
+            "Tatiana25"
+          ],
+          "account_raw": "Tatiana25",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbG9GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a82e71db525ffdb346417d0d1dde3713d3dbea7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2026-01-15_at_9.31.28_PM_tati.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3070"
+        },
+        {
+          "source_id": "3068",
+          "name": "Daniel Campos",
+          "accounts": [
+            "vizardcamz"
+          ],
+          "account_raw": "vizardcamz",
+          "rank": "19 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGdGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb57b1d943433b9712ae4cb27d1b7de89b54df55/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2026-01-15_at_5.19.38_PM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3068"
+        },
+        {
+          "source_id": "3064",
+          "name": "Noe Agreda",
+          "accounts": [
+            "Absynthe"
+          ],
+          "account_raw": "Absynthe",
+          "rank": "20 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFVGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b753356a1c56a88930e70d6765719e83fa8f0e99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/P1002409.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/SLV#3064"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "GUA",
+      "name": "Guatemala",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA",
+      "country": "Guatemala",
+      "players": [
+        {
+          "source_id": "2801",
+          "name": "Jeremy Cain",
+          "accounts": [
+            "x13420x"
+          ],
+          "account_raw": "x13420x",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1FIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0030d9e1e69e8459b1ca0874f7f3c420455bbdf5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG_20250114_115007_.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#2801"
+        },
+        {
+          "source_id": "1817",
+          "name": "Mario Roberto Gómez Flores",
+          "accounts": [
+            "mrgomez"
+          ],
+          "account_raw": "mrgomez",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01EIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13f84a0267cce4b6f763a9625065506f38a74bbc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Mario_Gomez.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#1817"
+        },
+        {
+          "source_id": "1347",
+          "name": "Carlos Adrián Ramírez Álvarez",
+          "accounts": [
+            "Cararam11"
+          ],
+          "account_raw": "Cararam11",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bcf791d917750daf6ce2d84fae4013fa5466f7cf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Adria%CC%81n_Rami%CC%81rez.png",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#1347"
+        },
+        {
+          "source_id": "1345",
+          "name": "José Daniel Romero",
+          "accounts": [
+            "googolplex"
+          ],
+          "account_raw": "googolplex",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTRDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f29bec2c22be06b177a1de84b5763aa4c252bbc9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Jose%CC%81_Romero_torneo_FIG.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#1345"
+        },
+        {
+          "source_id": "1348",
+          "name": "Jorge Emilio Murillo Lux",
+          "accounts": [
+            "jlux"
+          ],
+          "account_raw": "jlux",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b22ab49c91ec8465934893b145313840c4b7108/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Jorge_Lux.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#1348"
+        },
+        {
+          "source_id": "3065",
+          "name": "Maday Pérez",
+          "accounts": [
+            "Maday"
+          ],
+          "account_raw": "Maday",
+          "rank": "13 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--12aea22ead720a4c88917c770634b4c004a42e33/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--eb6d732f6e56e9de5aaa65635793b45a11a6f38a/42ade763-9c53-41b9-8107-e606b3c51255.JPG",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#3065"
+        },
+        {
+          "source_id": "2797",
+          "name": "Elsa Guerra",
+          "accounts": [
+            "Nati87"
+          ],
+          "account_raw": "Nati87",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7c52933dddeca16b99b125a1ca2764fa41150a34/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2025-01-13_at_12.45.24_PM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#2797"
+        },
+        {
+          "source_id": "2798",
+          "name": "Ashly Chanchavac",
+          "accounts": [
+            "ashly12"
+          ],
+          "account_raw": "ashly12",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cdd94316c704153316d69b22a08f0fe30d5e8f8e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2025-01-13_at_12.45.24_PM_(1).jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/GUA#2798"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "HTI",
+      "name": "Haiti",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/HTI",
+      "country": "Haiti",
+      "players": [
+        {
+          "source_id": "2326",
+          "name": "Jean Wilson",
+          "accounts": [
+            "Djanwill01"
+          ],
+          "account_raw": "Djanwill01",
+          "rank": "12 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d2741cb85f0e2677c5f7dfd584d2c99cf127ae4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/13B9707F-44BD-496B-96A2-A27C9034EA39.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/HTI#2326"
+        },
+        {
+          "source_id": "2332",
+          "name": "Saintana Robert",
+          "accounts": [
+            "Keyjay"
+          ],
+          "account_raw": "Keyjay",
+          "rank": "12 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b7b4c602303086202e982bed3b69d54e71a8138/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Saintana.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/HTI#2332"
+        },
+        {
+          "source_id": "2833",
+          "name": "Simeon Frantzlor",
+          "accounts": [
+            "Frantz"
+          ],
+          "account_raw": "Frantz",
+          "rank": "12 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b1eebf8e697c89c348447b535df9c9c8aa03572a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Frantzlor_Sime%CC%81on_.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/HTI#2833"
+        },
+        {
+          "source_id": "2328",
+          "name": "Fils Elivenson",
+          "accounts": [
+            "Wizzkerson"
+          ],
+          "account_raw": "Wizzkerson",
+          "rank": "16 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBanNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5cea14cd089b37877a16ee148d334d4db0c2e7b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/119F91EA-ADC8-4C7E-817F-C7137D556309.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/HTI#2328"
+        },
+        {
+          "source_id": "2832",
+          "name": "Lamour Bregenet",
+          "accounts": [
+            "Ajeh2"
+          ],
+          "account_raw": "Ajeh2",
+          "rank": "16 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f26effe75b1a97dfb5d70c87816a546d10c68a91/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Lamour_Bregenet_.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/HTI#2832"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "MEX",
+      "name": "Mexico",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX",
+      "country": "México",
+      "players": [
+        {
+          "source_id": "2342",
+          "name": "Rebeca Peña",
+          "accounts": [
+            "Recka"
+          ],
+          "account_raw": "Recka",
+          "rank": "10 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a7aebaa016068b45db494a69325d72f726f7fdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Foto1.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#2342"
+        },
+        {
+          "source_id": "1305",
+          "name": "Emil García",
+          "accounts": [
+            "srbanana"
+          ],
+          "account_raw": "srbanana",
+          "rank": "5 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--02de8d9b5e623057bad1566bc560566c96ef5687/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Emil_Garcia.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#1305"
+        },
+        {
+          "source_id": "1307",
+          "name": "Sebastián Ríos De Icaza",
+          "accounts": [
+            "OjO"
+          ],
+          "account_raw": "OjO",
+          "rank": "4 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2tDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--216b3ae717e9fb6ae8a9ccc94f30e97bd80cb57f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Sebas.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#1307"
+        },
+        {
+          "source_id": "1309",
+          "name": "Cristobal Bravo Marván",
+          "accounts": [
+            "Lobito2"
+          ],
+          "account_raw": "Lobito2",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cffdfb53da8e751112729e39934134c96e0d08d4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Cristobal_Bravo.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#1309"
+        },
+        {
+          "source_id": "1490",
+          "name": "Ricardo Quintero Zazueta",
+          "accounts": [
+            "Ocelotl"
+          ],
+          "account_raw": "Ocelotl",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWtDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c74b91ce56212668e5d580d1564f76168f32e966/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Quintero_Photo.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#1490"
+        },
+        {
+          "source_id": "2335",
+          "name": "Julio Cesar Sosa",
+          "accounts": [
+            "Gmtw25"
+          ],
+          "account_raw": "Gmtw25",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0VFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2231319c1e1eedd1cbc1dc46d31f7d0b959259a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Julio_sosa.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#2335"
+        },
+        {
+          "source_id": "3089",
+          "name": "Emiliano Alvarado Vargas",
+          "accounts": [
+            "Pichiciego"
+          ],
+          "account_raw": "Pichiciego",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUVGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--59c104f06a59328a31f90119385f8110e35d9595/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2026-02-18_at_8.57.29_PM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#3089"
+        },
+        {
+          "source_id": "3069",
+          "name": "Macario Antonio Baez Silva",
+          "accounts": [
+            "tlacuilo"
+          ],
+          "account_raw": "tlacuilo",
+          "rank": "3 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec2380188ae203b39a1698003a3c15251ad539ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20260115-WA0003.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#3069"
+        },
+        {
+          "source_id": "2334",
+          "name": "Yunuen Vital",
+          "accounts": [
+            "Vytal"
+          ],
+          "account_raw": "Vytal",
+          "rank": "7 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dbb6f4e6a6b076abe8534d079ead370cdf961076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Yunuen_Vital.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/MEX#2334"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "PAN",
+      "name": "Panama",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PAN",
+      "country": "Panamá",
+      "players": [
+        {
+          "source_id": "1986",
+          "name": "Edgar Escobar",
+          "accounts": [
+            "edives"
+          ],
+          "account_raw": "edives",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTREIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa1ef249c030a4dcddaef62c3cca1270b50710c0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Edgar_4.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PAN#1986"
+        },
+        {
+          "source_id": "1971",
+          "name": "Cesar Leon",
+          "accounts": [
+            "cesar507"
+          ],
+          "account_raw": "cesar507",
+          "rank": "12 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUVEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3d99feb930fd53e32cc04a86b3423c6d0d51897d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c0ba673fc119e7a7155a0b6a403bd1fcd3523b51/Screenshot_20210107-081538_2.png",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PAN#1971"
+        },
+        {
+          "source_id": "2501",
+          "name": "Itza Ceron",
+          "accounts": [
+            "ItzaC"
+          ],
+          "account_raw": "ItzaC",
+          "rank": "17 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFVFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f748ed5aba5dda06a654814c591664b6310f6dc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG_0166.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PAN#2501"
+        },
+        {
+          "source_id": "2170",
+          "name": "Alejandro Carrasquilla Jiménez",
+          "accounts": [
+            "Khalapas"
+          ],
+          "account_raw": "Khalapas",
+          "rank": "20 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6232e0f61c90eb4d76bd3b5285c9e0e30a78ad63/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Alejandro_Carrasquilla.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PAN#2170"
+        },
+        {
+          "source_id": "3084",
+          "name": "Enrique Cheung",
+          "accounts": [
+            "Raider"
+          ],
+          "account_raw": "Raider",
+          "rank": "20 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUFGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1532285c0b7ff2db6f01fe22a81d693e3a80f36c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Enrique_Cheung_-_Panama%CC%81.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PAN#3084"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "PER",
+      "name": "Peru",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER",
+      "country": "Peru",
+      "players": [
+        {
+          "source_id": "1985",
+          "name": "Jorge Noriyuki Yamamoto Kina",
+          "accounts": [
+            "Noriyuki73"
+          ],
+          "account_raw": "Noriyuki73",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTBEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bbb2fcc48419a619c5d39a063f4a1220dc9e420/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Yamamoto_Kina__Jorge_Noriyuki.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#1985"
+        },
+        {
+          "source_id": "1494",
+          "name": "Daniel Makiya",
+          "accounts": [
+            "ozeromirei"
+          ],
+          "account_raw": "ozeromirei",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTBDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77eb43999ac519ee563b34df2c3ac5673d9efc55/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Daniel_Makiya.jpeg",
+          "captain": true,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#1494"
+        },
+        {
+          "source_id": "1355",
+          "name": "Ricardo Miyashiro",
+          "accounts": [
+            "Harumasa"
+          ],
+          "account_raw": "Harumasa",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblFDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aaf43628c32284fd4c307de72ee20c100155ec27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Ricardo_Miyashiro.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#1355"
+        },
+        {
+          "source_id": "1356",
+          "name": "Jorge Marin",
+          "accounts": [
+            "JPMV1991"
+          ],
+          "account_raw": "JPMV1991",
+          "rank": "3 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2555d7ad89a3607f13c9d61f5f31f536965a6861/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Jorge_Marin.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#1356"
+        },
+        {
+          "source_id": "1671",
+          "name": "Paco Yanque",
+          "accounts": [
+            "pipa11"
+          ],
+          "account_raw": "pipa11",
+          "rank": "4 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c1ab875404ac02532ebbeee5366d155fc50baba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Paco_Yanque_(4).jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#1671"
+        },
+        {
+          "source_id": "1503",
+          "name": "Jose Felix",
+          "accounts": [
+            "Felix97"
+          ],
+          "account_raw": "Felix97",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f23b7ee885c100f6bea93dcb0cb5d6425677451e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/20621755_1366316823486145_1713085171723074869_n.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#1503"
+        },
+        {
+          "source_id": "3010",
+          "name": "Paul Salaets",
+          "accounts": [
+            "psala"
+          ],
+          "account_raw": "psala",
+          "rank": "7 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ad62430b1476ab2a81ed7c7c1f33bc3e9a9c19f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/photo_5132130652370177105_y.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/PER#3010"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "URU",
+      "name": "Uruguay",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU",
+      "country": "Uruguai",
+      "players": [
+        {
+          "source_id": "2813",
+          "name": "Guillermo Reyes",
+          "accounts": [
+            "grebal40"
+          ],
+          "account_raw": "grebal40",
+          "rank": "14 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--445a1262b45463628354fd8b77c89b95a98175ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/foto_Guill_Reyes.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#2813"
+        },
+        {
+          "source_id": "3009",
+          "name": "Germán Rodríguez González",
+          "accounts": [
+            "german"
+          ],
+          "account_raw": "german",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--acf1458c2ac20b782fe8c633193a65ba324c9279/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/Foto_carn%C3%A9.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#3009"
+        },
+        {
+          "source_id": "2818",
+          "name": "Manuel Alejandro Quert Gómez",
+          "accounts": [
+            "maquert85"
+          ],
+          "account_raw": "maquert85",
+          "rank": "2 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5171be1abe3c34dc39b921cd80e4341393532c18/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2025-01-15_at_09.40.31.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#2818"
+        },
+        {
+          "source_id": "2811",
+          "name": "Ivana Calleros",
+          "accounts": [
+            "achecopar"
+          ],
+          "account_raw": "achecopar",
+          "rank": "7 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e5ee912254b5acf2f0e025c8381465541ef64159/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Foto_mia.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#2811"
+        },
+        {
+          "source_id": "3007",
+          "name": "Vicente Castelló",
+          "accounts": [
+            "casvicente"
+          ],
+          "account_raw": "casvicente",
+          "rank": "6 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--19e0b787539a19f774c81fd25969f0dd8bd2c588/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZKSWcweU1EQjRNekF3UGdZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b4b1f82a4c76937f4134937e86325d3d41587eb3/WhatsApp_Image_2025-12-11_at_6.22.03_PM.jpeg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#3007"
+        },
+        {
+          "source_id": "3006",
+          "name": "Helios Tomasini",
+          "accounts": [
+            "Heli"
+          ],
+          "account_raw": "Heli",
+          "rank": "8 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05feb8a79a8aa5588ac985ec20806a3ec6a62b01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20250914-WA0070.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#3006"
+        },
+        {
+          "source_id": "3008",
+          "name": "Ian Tomasini",
+          "accounts": [
+            "Flaflu8000"
+          ],
+          "account_raw": "Flaflu8000",
+          "rank": "8 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e3ef86742e229bc7ba71db313563ba1226cff99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG-20221015-WA0024.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#3008"
+        },
+        {
+          "source_id": "2814",
+          "name": "Sebastián Lafourcade",
+          "accounts": [
+            "SebaLaf"
+          ],
+          "account_raw": "SebaLaf",
+          "rank": "9 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa08b590f644a517fd4958d2514cc711e3c8c602/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/foto_Seba_L.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#2814"
+        },
+        {
+          "source_id": "1802",
+          "name": "Líber Magallanes",
+          "accounts": [
+            "Liber"
+          ],
+          "account_raw": "Liber",
+          "rank": "13 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--059fd1679fb95fe2145bb7f97d189c549a4f6544/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG_20190608_210753_314.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/URU#1802"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "code": "VEN",
+      "name": "Venezuela",
+      "url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN",
+      "country": "Venezuela",
+      "players": [
+        {
+          "source_id": "1818",
+          "name": "Loli Puerta",
+          "accounts": [
+            "canaima"
+          ],
+          "account_raw": "canaima",
+          "rank": "3 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--25ac72714e358cabfd11f6f1b70de89d2ce4a684/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/lolipiwamoto.jpg",
+          "captain": true,
+          "trainer": false,
+          "order": 0,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#1818"
+        },
+        {
+          "source_id": "1351",
+          "name": "Alvaro Tirado",
+          "accounts": [
+            "aitr6"
+          ],
+          "account_raw": "aitr6",
+          "rank": "3 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk1DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--127ff1aa6e3c22cee37e04df48f2b9ad4991f613/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/avgcarnetalvaro.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 1,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#1351"
+        },
+        {
+          "source_id": "2172",
+          "name": "Javier Gonzalez",
+          "accounts": [
+            "pantaleon"
+          ],
+          "account_raw": "pantaleon",
+          "rank": "2 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7eb2529a3a96a5534a225ccce8120a479d1c1b8c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/javier.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 2,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#2172"
+        },
+        {
+          "source_id": "1991",
+          "name": "Diego Guerrero",
+          "accounts": [
+            "dguerrero"
+          ],
+          "account_raw": "dguerrero",
+          "rank": "1 dan",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBck1EIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d9be110c6636dfe89326941476739f6f8b342c0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/IMG_1378_rev.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 3,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#1991"
+        },
+        {
+          "source_id": "3055",
+          "name": "Miguelangel Yabrudes",
+          "accounts": [
+            "Lucius99"
+          ],
+          "account_raw": "Lucius99",
+          "rank": "1 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEVGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2c3856fa934e24f02baf92f71cf87aacb49cd778/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/avgcarnetyabrudes_m1.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 4,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#3055"
+        },
+        {
+          "source_id": "1978",
+          "name": "Ramón Núñez",
+          "accounts": [
+            "zemar111"
+          ],
+          "account_raw": "zemar111",
+          "rank": "5 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c12c60c963fea5f525e071b2a42bbea47959dc50/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/Ram%C3%B3n_N%C3%BA%C3%B1ez_avatar2_CI.7076903.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 5,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#1978"
+        },
+        {
+          "source_id": "1990",
+          "name": "Jesús Gómez",
+          "accounts": [
+            "jgomo3"
+          ],
+          "account_raw": "jgomo3",
+          "rank": "7 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcklEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--febb2710f33d8854582835dd750d73db692df6ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/photo_2020-07-16_07-55-04.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 6,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#1990"
+        },
+        {
+          "source_id": "2504",
+          "name": "Abel Pérez Rico",
+          "accounts": [
+            "aperezri"
+          ],
+          "account_raw": "aperezri",
+          "rank": "8 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92d35074626308f66922984ac6aa70dc5c5da4d4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/photo_2024-01-26_21-51-40.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 7,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#2504"
+        },
+        {
+          "source_id": "3013",
+          "name": "Gerson Febres",
+          "accounts": [
+            "Gfebres28"
+          ],
+          "account_raw": "Gfebres28",
+          "rank": "8 kyu",
+          "photo": "https://pandanet-igs.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b67268f1f2cff6cc914053f56f7f4fb5e86a5f67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJd01IZ3pNREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8bb5665aa273887bba0e3ef1bf1f5444c1730da/avgcarnetfebres_g1.jpg",
+          "captain": false,
+          "trainer": false,
+          "order": 8,
+          "source_url": "https://pandanet-igs.com/communities/latinamericanleague/teams/48/VEN#3013"
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "warnings": []
+}

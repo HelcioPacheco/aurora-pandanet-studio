@@ -1,0 +1,20 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const nodes=new Map();const node=id=>{if(!nodes.has(id))nodes.set(id,{innerHTML:'',value:'',hidden:false,disabled:false,open:false,classList:{toggle(){}},close(){this.open=false;}});return nodes.get(id);};
+const league={id:'latinamericanleague',name:'Latin America',seasons:[{season_id:'1',season_name:'Season 2026'}]};let replyDirectory;
+const context=vm.createContext({state:{league_id:null,season_id:null,room_league_ids:[],room_id:99,rooms:[{id:99,name:'Humanlike bots'},{id:51,name:'LatinAmericanTeamChamp'}],watched:[],available:[{id:1,white:'TeamPlayer',black:'Other'},{id:2,white:'Other',black:'Someone'}],connection:'connected'},$:node,esc:s=>String(s??''),TeamGames:require('./static/team-games.js'),I18n:{locale:'en'},toast:message=>{throw Error(message);},renderAvailable(){context.visible=vm.runInContext('teamAvailableGames()',context);},fetch:async path=>path==='/api/leagues'?{ok:true,json:async()=>({leagues:[league]})}:new Promise(resolve=>{replyDirectory=resolve;})});
+const evaluate=code=>vm.runInContext(code,context),flush=()=>new Promise(resolve=>setImmediate(resolve));
+const inactive=()=>{for(const id of ['roomLeagueControl','seasonControl','directoryBtn','watchTeamControls'])assert.equal(node(id).hidden,true,id+' must disappear outside a league');for(const id of ['seasonSelect','directoryBtn','watchTeamSelect','watchTeamBtn'])assert.equal(node(id).disabled,true,id+' must also be disabled');};
+(async()=>{
+ evaluate(fs.readFileSync('./static/league-ui.js','utf8'));await flush();inactive();
+ Object.assign(context.state,{league_id:league.id,season_id:'1',room_league_ids:[league.id],room_id:51});evaluate('renderLeagueContext()');
+ for(const id of ['seasonControl','directoryBtn','watchTeamControls'])assert.equal(node(id).hidden,false);
+ replyDirectory({ok:true,json:async()=>({league_id:league.id,season_id:'1',teams:[{code:'BRA',name:'Brazil',players:[{accounts:['TeamPlayer'],name:'Player'}]}],total_people:1})});await flush();
+ node('watchTeamSelect').value='BRA';node('watchTeamSelect').onchange({target:node('watchTeamSelect')});assert.deepEqual(context.visible.map(g=>g.id),[1]);
+ evaluate('reloadDirectory()');const stale=replyDirectory;node('directoryDialog').open=true;
+ Object.assign(context.state,{league_id:null,season_id:null,room_league_ids:[],room_id:99});evaluate('renderLeagueContext();renderAvailable()');inactive();assert.equal(node('directoryDialog').open,false);assert.equal(node('leagueHeading').textContent,'Humanlike bots');assert.deepEqual(context.visible.map(g=>g.id),[1,2]);
+ stale({ok:true,json:async()=>({league_id:league.id,season_id:'1',teams:[{code:'BRA',players:[]}],total_people:1})});await flush();inactive();assert.deepEqual(evaluate('teamAvailableGames()').map(g=>g.id),[1,2]);
+ Object.assign(context.state,{league_id:league.id,season_id:'1',room_league_ids:[league.id],room_id:51});evaluate('renderLeagueContext()');assert.equal(node('seasonControl').hidden,false);assert.equal(node('watchTeamSelect').value,'');
+ Object.assign(context.state,{room_capabilities:{league:false,league_choice:false}});evaluate('renderLeagueContext();renderAvailable()');inactive();
+ Object.assign(context.state,{room_id:0,room_capabilities:{league:true,league_choice:true}});evaluate('renderLeagueContext();renderAvailable()');inactive();assert.equal(node('leagueHeading').textContent,'Sala principal');
+ console.log('Room controls passed: league → team filter → unassociated room, late roster reply and return to league.');
+})().catch(error=>{console.error(error);process.exitCode=1;});

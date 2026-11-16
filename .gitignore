@@ -1,0 +1,12 @@
+/data/
+/validacao/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+.env
+.env.*
+.DS_Store
+*.zip
+
+/static/vendor/katago/b18-s9996604416.bin.gz
