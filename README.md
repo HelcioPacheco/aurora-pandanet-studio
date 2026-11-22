@@ -1,8 +1,8 @@
-# Aurora Pandanet Studio — 0.4.7
+# Aurora Pandanet Studio — 0.4.8
 
 Aplicativo local para acompanhar e comentar partidas do Pandanet. Inclui conexão ao servidor, seleção de salas e partidas, visualização em destaque ou mosaico, relógios, perfis locais e análise independente dos lances ao vivo.
 
-**Novidades desta versão:** veja [NOTAS-v0.4.7.md](NOTAS-v0.4.7.md). Preserve a pasta `data/` ao atualizar. As seções de versões anteriores abaixo registram a evolução do aplicativo.
+**Novidades desta versão:** veja [NOTAS-v0.4.8.md](NOTAS-v0.4.8.md). Preserve a pasta `data/` ao atualizar. As seções de versões anteriores abaixo registram a evolução do aplicativo.
 
 ## Instalação a partir deste repositório
 
@@ -39,7 +39,7 @@ Se a porta já estiver em uso, abra o endereço acima para reutilizar o aplicati
 1. O estúdio inicia em **demonstração**, com quatro partidas reais gravadas. A indicação de gravação fica visível; elas não são apresentadas como partidas ao vivo.
 2. Clique em **Conectar** para usar sua conta Pandanet ou entrar como visitante. Contas de visitante não podem entrar nas salas restritas, incluindo as da Liga e dos bots.
 3. Escolha a sala. A liga é associada automaticamente; na sala europeia compartilhada, escolha a liga principal ou juvenil no subseletor. Selecione uma temporada e uma equipe para filtrar as partidas. **Acompanhar partidas da equipe** abre somente os jogos que ainda não estão sendo acompanhados ou abertos. **Todas as equipes** permite acompanhar apenas partidas individuais. Em salas sem liga, os controles de liga ficam desabilitados.
-4. Clique nas miniaturas para trocar a partida principal. **Mosaico** mostra todas as partidas; clicar em uma delas retorna ao destaque.
+4. A opção **Último lance**, próxima aos botões Destaque/Mosaico, vem ativada e marca a pedra mais recente em cada tabuleiro do mosaico, nas miniaturas e no OBS. A preferência fica salva; um passe não marca a pedra anterior. Clique nas miniaturas para trocar a partida principal. **Mosaico** mostra todas as partidas; clicar em uma delas retorna ao destaque.
 5. Clique nos nós da árvore à direita do tabuleiro para navegar pelos lances e variantes. Os lances comuns são compartilhados, sem duplicação de linhas. Em telas estreitas, a árvore fica abaixo do tabuleiro. Você também pode usar os botões, a barra ou ←/→. Use ↑/↓ para alternar continuações irmãs e a lista de variantes para escolher outra linha. Home/End vão ao início/fim da linha; Page Up/Page Down e Shift+←/→ percorrem dez lances. Clicar em um lance existente apenas navega e preserva sua continuação. Clique no tabuleiro para criar uma variação. **Voltar ao vivo** retoma o acompanhamento da posição mais recente.
 6. Use triângulo, círculo, quadrado, texto, seta ou lápis para comentar visualmente. Cada partida conserva sua posição de análise e suas marcações ao trocar o destaque. Os lances reais continuam chegando.
 7. Clique no nome/foto de um jogador para cadastrar seu nome completo, país, graduação e endereço HTTPS de foto. Na ausência de foto, aparece uma silhueta. Os perfis são persistidos em `data/players.sqlite3`.

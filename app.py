@@ -8,7 +8,7 @@ from pathlib import Path
 from http.server import ThreadingHTTPServer,BaseHTTPRequestHandler
 from urllib.parse import urlparse,parse_qs
 ROOT=Path(__file__).resolve().parent
-APP_VERSION='0.4.7'
+APP_VERSION='0.4.8'
 sys.path.insert(0,str(ROOT/'transport'))
 from reliable import ObservationSession,ServerError
 from board import reconstruct,IllegalMove

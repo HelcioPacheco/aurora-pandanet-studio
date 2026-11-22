@@ -39,3 +39,12 @@ assert.equal(main.dataset.skin,'normal');
 assert.equal(layer.ctx.ops.find(op=>op[0]==='drawImage')[1],normalBackground,'returning to normal restores its background');
 assert.equal(JSON.stringify(board),before,'appearance changes do not change the game');
 console.log('Board skins switch cached layers, preserve the game and preserve colored annotations on monochrome boards.');
+
+// Last-move ring uses the opposite color in pure black/white mode, and vanishes on a pass.
+for(const [color,stroke] of [['B','#fff'],['W','#000']]){
+ const c=canvas();scope.painter.paint(c,{size:19,stones:[[3,3,color]],last:[3,3]},[],{skin:'mono',mini:true});
+ assert.ok(c.ctx.ops.some(op=>op[0]==='arc'),'last move has a ring');
+ assert.ok(c.ctx.ops.some(op=>op[0]==='set'&&op[1]==='strokeStyle'&&op[2]===stroke));
+ c.ctx.ops.length=0;scope.painter.paint(c,{size:19,stones:[[3,3,color]],last:null},[],{skin:'mono',mini:true});
+ assert.ok(!c.ctx.ops.some(op=>op[0]==='arc'),'pass does not mark the preceding stone');
+}

@@ -279,3 +279,6 @@ body:not(.output) .analysis-column .game-rail .tile-board { width:128px; max-wid
 @media(min-width:1151px) {
  body:not(.output) .analysis-column .analysis-panel { flex:0 1 auto; min-height:0; overflow-y:auto; scrollbar-width:thin; }
 }
+
+.last-move-toggle { display:flex; align-items:center; gap:5px; color:var(--muted); font-size:10px; white-space:nowrap; }
+.last-move-toggle input { width:13px; height:13px; margin:0; padding:0; accent-color:var(--accent); }

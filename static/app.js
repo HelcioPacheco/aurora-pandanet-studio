@@ -1,10 +1,10 @@
 'use strict';
-const APP_VERSION='0.4.7';
+const APP_VERSION='0.4.8';
 const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function applyTheme(theme){document.documentElement.dataset.theme=['light','light-blue'].includes(theme)?theme:'dark';if($('themeSelect'))$('themeSelect').value=document.documentElement.dataset.theme;}
 applyTheme(localStorage.getItem('aurora-theme')||'dark');
 const output=new URLSearchParams(location.search).has('output');if(output)document.body.classList.add('output');
-let state={watched:[],available:[],rooms:[],connection:'disconnected'},shared={aiSettings:{},aiLive:{},aiFocus:null,aiStatus:null,selected:null,mode:'focus',numberMode:'1',boardSkin:'normal',games:{}},tool='move',color='#dc493d',boardCache=new Map(),frameToken=0,drag=null,lastMoves=new Map(),uid=0;
+let state={watched:[],available:[],rooms:[],connection:'disconnected'},shared={aiSettings:{},aiLive:{},aiFocus:null,aiStatus:null,selected:null,mode:'focus',numberMode:'1',markLastMove:true,boardSkin:'normal',games:{}},tool='move',color='#dc493d',boardCache=new Map(),frameToken=0,drag=null,lastMoves=new Map(),uid=0;
 const rendered={available:'',rail:'',mosaic:'',players:'',board:''};let clockAnchor=performance.now();
 try{Object.assign(shared,JSON.parse(localStorage.getItem('aurora-layout')||'{}'));}catch{}
 const channel=typeof BroadcastChannel!=='undefined'?new BroadcastChannel('aurora-studio'):null;
@@ -57,11 +57,11 @@ function updateTiles(container,games){
  const wanted=new Set(games.map(g=>String(g.id)));
  for(const child of [...container.children])if(!wanted.has(child.dataset.game))child.remove();
  games.forEach((g,index)=>{
-  const key=JSON.stringify([shared.boardSkin,g.id,state.demo,g.board,g.board_error,g.status,g.stale,g.result,g.black_player,g.white_player]);
+  const key=JSON.stringify([shared.markLastMove!==false,shared.boardSkin,g.id,state.demo,g.board,g.board_error,g.status,g.stale,g.result,g.black_player,g.white_player]);
   let child=[...container.children].find(el=>el.dataset.game===String(g.id));
   if(!child||tileKeys.get(child)!==key){
    const template=document.createElement('template');template.innerHTML=tile(g);const next=template.content.firstElementChild;
-   if(g.board)BoardPainter.paint(next.querySelector('canvas'),g.board,[],{mini:!output,last:false,skin:shared.boardSkin});tileKeys.set(next,key);if(child)child.replaceWith(next);child=next;
+   if(g.board)BoardPainter.paint(next.querySelector('canvas'),g.board,[],{mini:!output,last:shared.markLastMove!==false,skin:shared.boardSkin});tileKeys.set(next,key);if(child)child.replaceWith(next);child=next;
   }
   child.classList.toggle('selected',g.id===Number(shared.selected));const badge=child.querySelector('.tile-top span');if(badge){const status=state.demo||g.recorded?'GRAVAÇÃO':g.status==='finished'?g.result||'FINALIZADO':g.stale?'ATUALIZANDO':'AO VIVO';badge.textContent=status;}
   if(container.children[index]!==child)container.insertBefore(child,container.children[index]||null);
@@ -72,7 +72,7 @@ function renderAvailable(){if(typeof renderWatchTeam==='function')renderWatchTea
 function render(){if(typeof renderLeagueContext==='function')renderLeagueContext();if(!state.watched.some(g=>g.id===Number(shared.selected))){shared.selected=state.watched[0]?.id??null;if(!output)share();}
 $('connectionText').textContent=state.demo?'Demonstração · partidas gravadas':({connected:'Pandanet conectado',connecting:'Conectando…',reconnecting:'Reconectando…',disconnected:'Sem conexão',authentication_required:'Login necessário'}[state.connection]||state.connection);
 $('connectionDot').className='dot '+(state.demo?'demo':state.connection==='connected'?'online':'');$('connectBtn').textContent=state.connection==='connected'?'Desconectar':'Conectar';$('watchCount').textContent=state.watched.length+' jogos';$('notice').hidden=!state.message||state.message==='Conexão estabelecida.'||state.message==='Gravações reais de teste · sem conexão com o servidor';$('notice').textContent=state.message||'';$('footerStatus').textContent=state.pending?({connect:'Conectando ao Pandanet…',join:'Entrando na sala…',observe:'Abrindo partida…',refresh:'Atualizando partidas…',unobserve:'Removendo observação…'}[state.pending]||'Atualizando…'):state.demo?'Gravações reais · análise disponível':state.connection==='connected'?'Recebendo atualizações do Pandanet':state.message||'Pronto para conectar';
-$('boardSkinSelect').value=shared.boardSkin==='mono'?'mono':'normal';$('focusBtn').classList.toggle('active',shared.mode==='focus');$('mosaicBtn').classList.toggle('active',shared.mode==='mosaic');const empty=!state.watched.length;$('emptyState').hidden=!empty;$('focusView').hidden=empty||shared.mode!=='focus';$('mosaicView').hidden=empty||shared.mode!=='mosaic';$('screenTitle').textContent=shared.mode==='mosaic'?'Todas as partidas':'Mesa de transmissão';
+$('markLastMove').checked=shared.markLastMove!==false;$('boardSkinSelect').value=shared.boardSkin==='mono'?'mono':'normal';$('focusBtn').classList.toggle('active',shared.mode==='focus');$('mosaicBtn').classList.toggle('active',shared.mode==='mosaic');const empty=!state.watched.length;$('emptyState').hidden=!empty;$('focusView').hidden=empty||shared.mode!=='focus';$('mosaicView').hidden=empty||shared.mode!=='mosaic';$('screenTitle').textContent=shared.mode==='mosaic'?'Todas as partidas':'Mesa de transmissão';
 const roomHTML='<option value="0">Sala principal</option>'+state.rooms.filter(r=>Number(r.id)!==0).map(r=>`<option value="${r.id}">${esc(r.name)}</option>`).join('');if($('roomSelect').innerHTML!==roomHTML)$('roomSelect').innerHTML=roomHTML;$('roomSelect').value=String(StateOrder.room(state));$('roomSelect').disabled=state.connection!=='connected'||['connect','join'].includes(state.pending);$('refreshBtn').disabled=state.connection!=='connected';renderAvailable();
 if(!empty){
  const cols=Math.max(1,Math.ceil(Math.sqrt(state.watched.length)));
@@ -144,6 +144,7 @@ $('variantSelect').onchange=e=>{const g=current();if(!g)return;AnalysisView.sele
 $('previousVariant').onclick=()=>switchVariant(-1);$('nextVariant').onclick=()=>switchVariant(1);
 $('undoVariation').onclick=()=>{const g=current();if(g){AnalysisView.undo(view(g));share();renderBoard();}};
 $('numberMode').onchange=e=>{shared.numberMode=MoveNumbers.normalize(e.target.value);share();renderBoard();};
+$('markLastMove').onchange=e=>{shared.markLastMove=e.target.checked;share();render();};
 $('boardSkinSelect').onchange=e=>{shared.boardSkin=e.target.value==='mono'?'mono':'normal';share();render();};
 $('toolButtons').onclick=e=>{const button=e.target.closest('[data-tool]');if(!button)return;finishDrawing(true);tool=button.dataset.tool;for(const item of $('toolButtons').querySelectorAll('[data-tool]')){const active=item===button;item.classList.toggle('active',active);item.setAttribute('aria-pressed',String(active));}};$('markColor').oninput=e=>color=e.target.value;$('removeCurrent').onclick=()=>{const g=current();if(g)action('unobserve',{id:g.id});};$('clearMarks').onclick=()=>{const g=current();if(g)saveNotes(g,[]);};
 document.addEventListener('click',e=>{const remove=e.target.closest('[data-remove]');if(remove){action('unobserve',{id:Number(remove.dataset.remove)});return;}const tile=e.target.closest('[data-game]');if(tile&&!output){selectGame(tile.dataset.game);return;}const observe=e.target.closest('[data-observe]');if(observe){action('observe',{id:Number(observe.dataset.observe)});return;}const profile=e.target.closest('[data-profile]');if(profile)openProfile(profile.dataset.profile);});
@@ -176,7 +177,7 @@ function acceptState(next){
   if(previous&&!appended)for(const key of boardCache.keys())if(key.startsWith(g.id+':'))boardCache.delete(key);
   lastMoves.set(g.id,g.moves);
  }
- if(shared.session!==next.session_id){shared={aiSettings:shared.aiSettings||{},aiLive:{},aiFocus:null,aiStatus:shared.aiStatus||null,session:next.session_id,selected:null,mode:'focus',numberMode:MoveNumbers.normalize(shared.numberMode),games:{}};boardCache.clear();LocalBoard.clear();if(!output)share();}
+ if(shared.session!==next.session_id){shared={aiSettings:shared.aiSettings||{},aiLive:{},aiFocus:null,aiStatus:shared.aiStatus||null,session:next.session_id,selected:null,mode:'focus',numberMode:MoveNumbers.normalize(shared.numberMode),markLastMove:shared.markLastMove!==false,games:{}};boardCache.clear();LocalBoard.clear();if(!output)share();}
  state=next;if(!drag)render();
 }
 let polling=false;
